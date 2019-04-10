@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html>
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <link type="text/css" rel="stylesheet" href="../css/main.css">
+        <script type="text/javascript" src="../lib/jquery-1.7.2.min.js"></script>
+        <script type="text/javascript" src="../lib/log4javascript_lite.js"></script>
+        <script type="text/javascript" src="../lib/jquery.qtip.js"></script>
+        <script type="text/javascript" src="../js/changelang.js"></script>
+        <script type="text/javascript" src="../js/main.js"></script>
+        <script type="text/javascript" src="../js/redirect.js"></script>
+        <script type="text/javascript" src="../js/validation.js"></script>
+        <script type="text/javascript" src="../js/home.js"></script>
+        <title>Mobile WiFi OSMAN</title>
+    </head>
+
+    <body>
+        <div id="all_content" class="body_bg" style="display: red;">
+            <div id="login_wrapper" class="login_wrapper_dim">
+                <div class="login_wrapper_dim login_wrapper_filter">
+                    <div id="header" class="header"><div id="header_turnbg" class="head_div head_dim">
+    <div class="head_dim head_filter">
+        <div class="logo">
+            <a href="#"></a>
+        </div>
+        <div id="union_main_menu" class="main_menu clr_white_main_menu_active">
+            <ul class="clr_white_header_hover">
+                <li id="menu_index">
+                    <a id="home" href="home.html" class="active">
+                    <span> <em>Home </em> </span>
+                    </a>
+                </li>
+                <li id="menu_statistic">
+                    <a id="statistic" href="statistic.html">
+                    <span>Statistics</span>
+                    </a>
+                </li>
+                <li id="menu_sms">
+                    <a id="sms" href="smsinbox.html">
+                    <span>SMS</span>
+                    </a>
+                </li>
+                
+                <li id="menu_ussd">
+                    <a id="ussd" href="ussd.html">
+                    <span>USSD</span>
+                    </a>
+                </li>
+                <li id="menu_update">
+                    <a id="update" href="update.html">
+                    <span>Update</span>
+                    </a>
+                </li>
+
+
+				
+                <li id="menu_settings">
+                    <a id="settings" href="quicksetup.html">
+                    <span>Settings</span>
+                    </a>
+                </li>
+                
+                
+                
+                
+                
+            </ul>
+        </div>
+        <div class="help">
+            <span>
+                <select id="lang" style="">
+                <option value="en_us">English</option><option value="zh_cn">简体中文（中国）</option><option value="zh_tw">繁體中文（台湾）</option><option value="id_id">Bahasa Indonesia</option>
+            </select>
+            </span>
+            <span class="clr_bold_a">
+                <a id="help_url" href="../usermanual/en-us/usermanual/web_content_concept_00001.html" target="_blank">
+                <span id="help_span">Help</span>
+                </a>
+            </span>
+            <span>
+                <span class="username" id="username_span" style="display: none;">
+                </span>
+            </span>
+            <span>&nbsp;</span>
+            <span>
+                <span class="logout">
+                    <span id="logout_span">Log In</span>
+                </span>
+            </span>
+        </div>
+        <div class="tools">
+            <ul>
+                 <li id="update_gif" class="nav01" style="display: none;">
+                    <a id="tooltip_update" href="update.html"><img src="../res/update_disable.gif"></a>
+                </li>
+                <li id="sms_full" class="nav02" style="display: none;">
+                    <a id="tooltip_sms_full" href="smsinbox.html"></a>
+                </li>
+                <li id="sms_gif" class="nav02" style="display: block;">
+                        <a id="tooltip_sms" href="smsinbox.html"><img src="../res/unread_message.gif" alt=""></a>
+                </li>
+                <li id="sim_signal_gif" class="nav03"><img onload="fixPNG(this)" src="../res/signal_5.png" 0="" no-repeat=""></li>
+				 <li id="station_gif" class="nav08" style="display: none;">
+                </li>
+                <li id="wan_gif" class="nav05" style="display: none;">
+                </li>
+                <li id="wifi_gif" class="nav06"><img onload="fixPNG(this)" src="../res/wifi_1.png" 0="" no-repeat=""></li>
+                
+                <li id="battery_gif" class="nav07"><img onload="fixPNG(this)" src="../res/battery_level_4.png" 0="" no-repeat=""></li>
+               
+            </ul>
+        </div>
+    </div>
+</div></div>
+                    <div class="center_box">
+                        <div id="center_box_main" style="margin-left: 280px;">
+                            <div id="status_img" class="signal clr_gray_signal_nocard_p"><img onload="fixPNG(this)" src="../res/icon_signal_05.png"><p id="status_img_rat">3G</p></div>
+                            <div id="status_info" class="title_info">
+                                <div id="status_discript">
+                                    <div class="top_status_discript">
+                                        <h1><pre id="index_plmn_name">MTN</pre></h1>
+                                        <div id="index_connection_status" class="clr_blue_a clr_blue_hover">Disconnected<div id="menu_connection_settings"><a href="mobileconnection.html">Connection Settings</a></div></div>
+                                    </div>
+                                    <!--ul id="wifi_connect_button">
+                                        <li id="index_connection_button" class='main_button'>
+                                             
+                                        </li>
+                                        <li id="wifi_connection_button" class='main_button trun_off_waln'>
+
+                                        </li>
+                                    </ul-->
+                                    <div id="index_connection_button_old" style="display: none;">
+                                    <div id="index_connection_button" class="main_button main_button_float">
+                                    </div>
+                                    </div>
+                                    <div style="clear:both"></div>
+                                    <!--div id="wifi_connection_button" class='main_button trun_off_waln'></div-->
+                                    
+                                    <div class="trun_on_off_waln" style="display: none;">
+                                        <input id="trun_off_waln_check" name="trun_off_waln" type="checkbox" value="" checked="checked">
+                                        <span>
+                                            <script type="text/javascript">dw(wlan_lable_Interntet_wlan);</script>Wi-Fi Extender
+                                        </span>
+                                    </div>
+                                    <div id="index_connection_button_new" class="main_button main_button_float" style="">
+                                        <span class="power_off_btn" id="power_off_btn" title="Turn off the device."></span>
+                                        <span class="mobile_connect_btn" id="mobile_connect_btn" title="Mobile data"></span>
+                                        <span class="wlan_connect_btn wlan_connect_btn_on" id="wlan_connect_btn" title="Wi-Fi Extender"></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--<div class="hilink">
+                        </div>-->
+                    </div>
+                    <div class="notification">
+                        <div class="new_msg clr_white" style="display: none;">
+                            <script type="text/javascript">dw(hilink_label_newmessage);</script>Notification tool for new messages and more…
+                        </div>
+                        <div class="install">
+                            <script type="text/javascript">create_button(strid_home_title_download_install, "notification_tray");</script><span class="button_wrapper" id="notification_tray" style="display: none;"><span class="button_left"><span class="button_right"><span class="button_center">Download &amp; Install</span></span></span></span>
+                        </div>
+                    </div>
+                    <div class="login_box_info clr_blue_title_h2 clr_bold_login_box_info_table" style="height: 163px;">
+                        <div class="login_info">
+                            <div class="connection" style="width: 50%; height: 128px;">
+                                <h2>
+                                <script type="text/javascript">dw(dialup_label_current_connection)</script>Current connection
+                                </h2>
+                                <table width="91%" border="0" cellpadding="0" cellspacing="0" id="mobile_connection">
+                                    <tbody><tr>
+                                        <td class="receivedsent" width="40%">Received/Sent:</td>
+                                        <td id="revicedsent_date">
+                                        <label class="list_right" id="TotalDownload">0 B</label>
+                                        <label>
+                                            /
+                                        </label>
+                                        <label class="list_right" id="TotalUpload">0 B</label>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                        <script type="text/javascript">
+                                            dw(dialup_label_duration);
+                                            dw(common_colon);
+                                        </script>Duration:
+                                        </td>
+                                        <td>
+                                        <label class="list_right" id="TotalConnectTime">00:00:00</label>
+                                        </td>
+                                    </tr>
+                                    <tr id="my_number" style="">
+                                        <td>
+                                        <script type="text/javascript">
+                                            dw(system_label_my_number);
+                                            dw(common_colon);
+                                        </script>My number:
+                                        </td>
+                                        <td class="list_right" id="ConnectionStatus">Unknown</td>
+                                    </tr>
+                                </tbody></table>
+                                
+                                
+                                
+                            </div>
+                            <div class="wlan_status" style="width: 50%; height: 128px;">
+                                <h2>
+                                <script type="text/javascript">dw(wlan_label_wlan_status)</script>WLAN status
+                                </h2>
+                                <table id="wlan_status_single_or_multi" width="91%" border="0" cellpadding="0" cellspacing="0">
+                                    <tbody><tr>
+                                        <td width="60%">
+                                        <script>
+                                            dw(wlan_label_wlan_status);
+                                            dw(common_colon)
+                                        </script>WLAN status:
+                                        </td>
+                                        <td>
+                                        <label class="list_right" id="CurrentWifiStatus">On</label>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                        <script type="text/javascript">
+                                            dw(wlan_label_current_wifi_user);
+                                            dw(common_colon)
+                                        </script>Current WLAN user:
+                                        </td>
+                                        <td>
+                                        <label class="list_right" id="CurrentWifiUser">3</label>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="2" class="wifinumberinfo">
+                                            <label id="WifiNumberInfo">If the Wi-Fi extender function is enabled, a maximum of 9 WLAN users can access the Internet at the same time.</label>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </div>
+                            <div id="login_sharing_div" class="sharing" style="display:none;">
+                                <h2>
+                                <script type="text/javascript">dw(sharing_label_sharing)</script>Sharing
+                                </h2>
+                                <p>
+                                    <label class="label_left">
+                                        <script type="text/javascript">dw(common_sharing_tip)</script>Click View SD Files to view the content on the SD card.
+                                    </label>
+                                </p>
+                                <script type="text/javascript">create_button(sd_label_view_microsd_files,'view_SDCard_btn');</script><span class="button_wrapper" id="view_SDCard_btn"><span class="button_left"><span class="button_right"><span class="button_center">View SD Files</span></span></span></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="hot_links" style="border-top:0px;">
+                        <div class="hotlinks"><table> <tbody><tr id="hotlink_hide">  </tr></tbody></table></div>
+                    </div>
+                    <div id="ad_div" style="height:90px;width:100%;display:none">
+                        <iframe id="ad_iframe" width="100%" height="100%" scrolling="no" frameborder="0">
+                        </iframe>
+                    </div>
+                    <div id="cbs_div" class="cbs_text"></div>
+                    <div id="footer" class="footer clr_blue_hover"><a id="pravacy_policy" class="clr_gray" target="_blank" href="http://consumer.huawei.com/en/privacy-policy/index.htm">Privacy Policy</a><img src="../res/logo-footer.gif" align="absbottom" alt="" border="0"><span>&nbsp;COPYRIGHT (C) 2006-2014 HUAWEI TECHNOLOGIES CO.,LTD. ALL RIGHTS RESERVED.<div class="rightcorner"></div></span></div>
+                </div>
+            </div>
+        </div>
+        <noscript>
+            &lt;div class="noscript_text"&gt;
+                Your browser does not support JavaScript.
+            &lt;/div&gt;
+        </noscript>
+    
+<div qtip="0" id="qtip-0"
+ role="tooltip" ></div>
+
+
+  <aria-describedby="qtip-0-content" class="qtip qtip-sms"> 
+  <style="border-radius: 0px; z-index: 15000; position: absolute; display: none; padding: 10px 0px 0px; width: 110px;"> 
+  <div class="qtip-tip" dir="ltr" rel="topright">
+     style="position: absolute; height: 10px; width: 10px; margin: 0px auto; line-height: 0.1px; font-size: 1px; top: 0px; right: 5px; display: block;"><canvas height="10" width="10"></canvas></div>   <div class="qtip-wrapper" style="position:relative; overflow:hidden;"><div class="qtip-borderTop" dir="ltr" style="height: 5px; margin-left: 5px; line-height: 0.1px; font-size: 1px; padding: 0px; display: block;"><div rel="topLeft" style="left:0; position:absolute; height:5px; width:5px; overflow:hidden; line-height:0.1px; font-size:1px"><canvas height="5" width="5" style="vertical-align: top"></canvas></div><div rel="topRight" style="right:0; position:absolute; height:5px; width:5px; overflow:hidden; line-height:0.1px; font-size:1px"><canvas height="5" width="5" style="vertical-align: top"></canvas></div>
+     <div class="qtip-betweenCorners" style="height: 5px; width: 100px; overflow: hidden; line-height: 0.1px; font-size: 1px; background-color: rgb(99, 109, 115);"></div></div>     <div class="qtip-contentWrapper" style="overflow: hidden; border-width: 0px 5px; border-style: solid; border-color: rgb(99, 109, 115);">        <div id="qtip-0-content" class="qtip-content qtip-content" style="color: rgb(17, 17, 17); overflow:
+   hidden; padding: 5px 7px; background: rgb(255, 255, 231);"><b>New message</b></div> </div><div class="qtip-borderBottom" dir="ltr" style="height: 5px; margin-left: 5px; line-height: 0.1px; font-size: 1px; padding: 0px; display: block;"><div rel="bottomLeft" style="left:0; position:absolute; height:5px; width:5px; overflow:hidden; line-height:0.1px; font-size:1px"><canvas height="5" width="5" style="vertical-align: top"></canvas></div><div rel="bottomRight" style="right:0; position:absolute; height:5px; width:5px; overflow:hidden; line-height:0.1px; font-size:1px"><canvas height="5" width="5" style="vertical-align: top"></canvas></div><div class="qtip-betweenCorners" style="height: 5px; width: 100px; overflow: hidden; line-height: 0.1px; font-size: 1px; background-color: rgb(99, 109, 115);"></div></div></div></div><div qtip="1" id="qtip-1" role="tooltip" aria-describedby="qtip-1-content" class="qtip qtip-upd" style="border-radius: 0px; z-index: 15000; position: absolute; display: none; padding: 10px 0px 0px; width: 110px;"><div class="qtip-tip" dir="ltr" rel="topright" style="position: absolute; height: 10px; width: 10px; margin: 0px auto; line-height: 0.1px; font-size: 1px; top: 0px; right: 5px; display: block;"><canvas height="10" width="10"></canvas></div>   <div class="qtip-wrapper" style="position:relative; overflow:hidden;"><div class="qtip-borderTop" dir="ltr" style="height: 5px; margin-left: 5px; line-height: 0.1px; font-size: 1px; padding: 0px; display: block;"><div rel="topLeft" style="left:0; position:absolute; height:5px; width:5px; overflow:hidden; line-height:0.1px; font-size:1px"><canvas height="5" width="5" style="vertical-align: top"></canvas></div><div rel="topRight" style="right:0; position:absolute; height:5px; width:5px; overflow:hidden; line-height:0.1px; font-size:1px"><canvas height="5" width="5" style="vertical-align: top"></canvas></div><div class="qtip-betweenCorners" style="height: 5px; width: 100px; overflow: hidden; line-height: 0.1px; font-size: 1px; background-color: rgb(99, 109, 115);"></div></div>     <div class="qtip-contentWrapper" style="overflow: hidden; border-width: 0px 5px; border-style: solid; border-color: rgb(99, 109, 115);">        <div id="qtip-1-content" class="qtip-content qtip-content" style="color: rgb(17, 17, 17); overflow: hidden; padding: 5px 7px; background: rgb(255, 255, 231);"><b>Update available</b></div> </div><div class="qtip-borderBottom" dir="ltr" style="height: 5px; margin-left: 5px; line-height: 0.1px; font-size: 1px; padding: 0px; display: block;"><div rel="bottomLeft" style="left:0; position:absolute; height:5px; width:5px; overflow:hidden; line-height:0.1px; font-size:1px"><canvas height="5" width="5" style="vertical-align: top"></canvas></div><div rel="bottomRight" style="right:0; position:absolute; height:5px; width:5px; overflow:hidden; line-height:0.1px; font-size:1px"><canvas height="5" width="5" style="vertical-align: top"></canvas></div><div class="qtip-betweenCorners" style="height: 5px; width: 100px; overflow: hidden; line-height: 0.1px; font-size: 1px; background-color: rgb(99, 109, 115);"></div></div></div></div><div qtip="2" id="qtip-2" role="tooltip" aria-describedby="qtip-2-content" class="qtip qtip-sim" style="border-radius: 0px; z-index: 15000; position: absolute; display: none; padding: 10px 0px 0px; width: 110px;"><div class="qtip-tip" dir="ltr" rel="topright" style="position: absolute; height: 10px; width: 10px; margin: 0px auto; line-height: 0.1px; font-size: 1px; top: 0px; right: 5px; display: block;"><canvas height="10" width="10"></canvas></div>   <div class="qtip-wrapper" style="position:relative; overflow:hidden;"><div class="qtip-borderTop" dir="ltr" style="height: 5px; margin-left: 5px; line-height: 0.1px; font-size: 1px; padding: 0px; display: block;"><div rel="topLeft" style="left:0; position:absolute; height:5px; width:5px; overflow:hidden; line-height:0.1px; font-size:1px"><canvas height="5" width="5" style="vertical-align: top"></canvas></div><div rel="topRight" style="right:0; position:absolute; height:5px; width:5px; overflow:hidden; line-height:0.1px; font-size:1px"><canvas height="5" width="5" style="vertical-align: top"></canvas></div><div class="qtip-betweenCorners" style="height: 5px; width: 100px; overflow: hidden; line-height: 0.1px; font-size: 1px; background-color: rgb(99, 109, 115);"></div></div>     <div class="qtip-contentWrapper" style="overflow: hidden; border-width: 0px 5px; border-style: solid; border-color: rgb(99, 109, 115);">        <div id="qtip-2-content" class="qtip-content qtip-content" style="color: rgb(17, 17, 17); overflow: hidden; padding: 5px 7px; background: rgb(255, 255, 231);"><b>3G</b></div> </div><div class="qtip-borderBottom" dir="ltr" style="height: 5px; margin-left: 5px; line-height: 0.1px; font-size: 1px; padding: 0px; display: block;"><div rel="bottomLeft" style="left:0; position:absolute; height:5px; width:5px; overflow:hidden; line-height:0.1px; font-size:1px"><canvas height="5" width="5" style="vertical-align: top"></canvas></div><div rel="bottomRight" style="right:0; position:absolute; height:5px; width:5px; overflow:hidden; line-height:0.1px; font-size:1px"><canvas height="5" width="5" style="vertical-align: top"></canvas></div><div class="qtip-betweenCorners" style="height: 5px; width: 100px; overflow: hidden; line-height: 0.1px; font-size: 1px; background-color: rgb(99, 109, 115);"></div></div></div></div><div qtip="3" id="qtip-3" role="tooltip" aria-describedby="qtip-3-content" class="qtip qtip-wan" style="border-radius: 0px; z-index: 15000; position: absolute; display: none; padding: 10px 0px 0px; width: 110px;"><div class="qtip-tip" dir="ltr" rel="topright" style="position: absolute; height: 10px; width: 10px; margin: 0px auto; line-height: 0.1px; font-size: 1px; top: 0px; right: 5px; display: block;"><canvas height="10" width="10"></canvas></div>   <div class="qtip-wrapper" style="position:relative; overflow:hidden;"><div class="qtip-borderTop" dir="ltr" style="height: 5px; margin-left: 5px; line-height: 0.1px; font-size: 1px; padding: 0px; display: block;"><div rel="topLeft" style="left:0; position:absolute; height:5px; width:5px; overflow:hidden; line-height:0.1px; font-size:1px"><canvas height="5" width="5" style="vertical-align: top"></canvas></div><div rel="topRight" style="right:0; position:absolute; height:5px; width:5px; overflow:hidden; line-height:0.1px; font-size:1px"><canvas height="5" width="5" style="vertical-align: top"></canvas></div><div class="qtip-betweenCorners" style="height: 5px; width: 100px; overflow: hidden; line-height: 0.1px; font-size: 1px; background-color: rgb(99, 109, 115);"></div></div>     <div class="qtip-contentWrapper" style="overflow: hidden; border-width: 0px 5px; border-style: solid; border-color: rgb(99, 109, 115);">        <div id="qtip-3-content" class="qtip-content qtip-content" style="color: rgb(17, 17, 17); overflow: hidden; padding: 5px 7px; background: rgb(255, 255, 231);"><b>WAN disconnected</b></div> </div><div class="qtip-borderBottom" dir="ltr" style="height: 5px; margin-left: 5px; line-height: 0.1px; font-size: 1px; padding: 0px; display: block;"><div rel="bottomLeft" style="left:0; position:absolute; height:5px; width:5px; overflow:hidden; line-height:0.1px; font-size:1px"><canvas height="5" width="5" style="vertical-align: top"></canvas></div><div rel="bottomRight" style="right:0; position:absolute; height:5px; width:5px; overflow:hidden; line-height:0.1px; font-size:1px"><canvas height="5" width="5" style="vertical-align: top"></canvas></div><div class="qtip-betweenCorners" style="height: 5px; width: 100px; overflow: hidden; line-height: 0.1px; font-size: 1px; background-color: rgb(99, 109, 115);"></div></div></div></div><div qtip="4" id="qtip-4" role="tooltip" aria-describedby="qtip-4-content" class="qtip qtip-wifi" style="border-radius: 0px; z-index: 15000; position: absolute; display: none; padding: 10px 0px 0px; width: 110px;"><div class="qtip-tip" dir="ltr" rel="topright" style="position: absolute; height: 10px; width: 10px; margin: 0px auto; line-height: 0.1px; font-size: 1px; top: 0px; right: 5px; display: block;"><canvas height="10" width="10"></canvas></div>   <div class="qtip-wrapper" style="position:relative; overflow:hidden;"><div class="qtip-borderTop" dir="ltr" style="height: 5px; margin-left: 5px; line-height: 0.1px; font-size: 1px; padding: 0px; display: block;"><div rel="topLeft" style="left:0; position:absolute; height:5px; width:5px; overflow:hidden; line-height:0.1px; font-size:1px"><canvas height="5" width="5" style="vertical-align: top"></canvas></div><div rel="topRight" style="right:0; position:absolute; height:5px; width:5px; overflow:hidden; line-height:0.1px; font-size:1px"><canvas height="5" width="5" style="vertical-align: top"></canvas></div><div class="qtip-betweenCorners" style="height: 5px; width: 100px; overflow: hidden; line-height: 0.1px; font-size: 1px; background-color: rgb(99, 109, 115);"></div></div>     <div class="qtip-contentWrapper" style="overflow: hidden; border-width: 0px 5px; border-style: solid; border-color: rgb(99, 109, 115);">        <div id="qtip-4-content" class="qtip-content qtip-content" style="color: rgb(17, 17, 17); overflow: hidden; padding: 5px 7px; background: rgb(255, 255, 231);"><b>WLAN on</b></div> </div><div class="qtip-borderBottom" dir="ltr" style="height: 5px; margin-left: 5px; line-height: 0.1px; font-size: 1px; padding: 0px; display: block;"><div rel="bottomLeft" style="left:0; position:absolute; height:5px; width:5px; overflow:hidden; line-height:0.1px; font-size:1px"><canvas height="5" width="5" style="vertical-align: top"></canvas></div><div rel="bottomRight" style="right:0; position:absolute; height:5px; width:5px; overflow:hidden; line-height:0.1px; font-size:1px"><canvas height="5" width="5" style="vertical-align: top"></canvas></div><div class="qtip-betweenCorners" style="height: 5px; width: 100px; overflow: hidden; line-height: 0.1px; font-size: 1px; background-color: rgb(99, 109, 115);"></div></div></div></div><div qtip="5" id="qtip-5" role="tooltip" aria-describedby="qtip-5-content" class="qtip qtip-battery" style="border-radius: 0px; z-index: 15000; position: absolute; display: none; padding: 10px 0px 0px; width: 110px;"><div class="qtip-tip" dir="ltr" rel="topright" style="position: absolute; height: 10px; width: 10px; margin: 0px auto; line-height: 0.1px; font-size: 1px; top: 0px; right: 5px; display: block;"><canvas height="10" width="10"></canvas></div>   <div class="qtip-wrapper" style="position:relative; overflow:hidden;"><div class="qtip-borderTop" dir="ltr" style="height: 5px; margin-left: 5px; line-height: 0.1px; font-size: 1px; padding: 0px; display: block;"><div rel="topLeft" style="left:0; position:absolute; height:5px; width:5px; overflow:hidden; line-height:0.1px; font-size:1px"><canvas height="5" width="5" style="vertical-align: top"></canvas></div><div rel="topRight" style="right:0; position:absolute; height:5px; width:5px; overflow:hidden; line-height:0.1px; font-size:1px"><canvas height="5" width="5" style="vertical-align: top"></canvas></div><div class="qtip-betweenCorners" style="height: 5px; width: 100px; overflow: hidden; line-height: 0.1px; font-size: 1px; background-color: rgb(99, 109, 115);"></div></div>     <div class="qtip-contentWrapper" style="overflow: hidden; border-width: 0px 5px; border-style: solid; border-color: rgb(99, 109, 115);">        <div id="qtip-5-content" class="qtip-content qtip-content" style="color: rgb(17, 17, 17); overflow: hidden; padding: 5px 7px; background: rgb(255, 255, 231);"><b>Battery</b></div> </div><div class="qtip-borderBottom" dir="ltr" style="height: 5px; margin-left: 5px; line-height: 0.1px; font-size: 1px; padding: 0px; display: block;"><div rel="bottomLeft" style="left:0; position:absolute; height:5px; width:5px; overflow:hidden; line-height:0.1px; font-size:1px"><canvas height="5" width="5" style="vertical-align: top"></canvas></div><div rel="bottomRight" style="right:0; position:absolute; height:5px; width:5px; overflow:hidden; line-height:0.1px; font-size:1px"><canvas height="5" width="5" style="vertical-align: top"></canvas></div><div class="qtip-betweenCorners" style="height: 5px; width: 100px; overflow: hidden; line-height: 0.1px; font-size: 1px; background-color: rgb(99, 109, 115);"></div></div></div></div><div qtip="6" id="qtip-6" role="tooltip" aria-describedby="qtip-6-content" class="qtip qtip-sms_full" style="border-radius: 0px; z-index: 15000; position: absolute; display: none; padding: 10px 0px 0px; width: 110px;"><div class="qtip-tip" dir="ltr" rel="topright" style="position: absolute; height: 10px; width: 10px; margin: 0px auto; line-height: 0.1px; font-size: 1px; top: 0px; right: 5px; display: block;"><canvas height="10" width="10"></canvas></div>   <div class="qtip-wrapper" style="position:relative; overflow:hidden;"><div class="qtip-borderTop" dir="ltr" style="height: 5px; margin-left: 5px; line-height: 0.1px; font-size: 1px; padding: 0px; display: block;"><div rel="topLeft" style="left:0; position:absolute; height:5px; width:5px; overflow:hidden; line-height:0.1px; font-size:1px"><canvas height="5" width="5" style="vertical-align: top"></canvas></div><div rel="topRight" style="right:0; position:absolute; height:5px; width:5px; overflow:hidden; line-height:0.1px; font-size:1px"><canvas height="5" width="5" style="vertical-align: top"></canvas></div><div class="qtip-betweenCorners" style="height: 5px; width: 100px; overflow: hidden; line-height: 0.1px; font-size: 1px; background-color: rgb(99, 109, 115);"></div></div>     <div class="qtip-contentWrapper" style="overflow: hidden; border-width: 0px 5px; border-style: solid; border-color: rgb(99, 109, 115);">        <div id="qtip-6-content" class="qtip-content qtip-content" style="color: rgb(17, 17, 17); overflow: hidden; padding: 5px 7px; background: rgb(255, 255, 231);"><b>Your message box is full.</b></div> </div><div class="qtip-borderBottom" dir="ltr" style="height: 5px; margin-left: 5px; line-height: 0.1px; font-size: 1px; padding: 0px; display: block;"><div rel="bottomLeft" style="left:0; position:absolute; height:5px; width:5px; overflow:hidden; line-height:0.1px; font-size:1px"><canvas height="5" width="5" style="vertical-align: top"></canvas></div><div rel="bottomRight" style="right:0; position:absolute; height:5px; width:5px; overflow:hidden; line-height:0.1px; font-size:1px"><canvas height="5" width="5" style="vertical-align: top"></canvas></div><div class="qtip-betweenCorners" style="height: 5px; width: 100px; overflow: hidden; line-height: 0.1px; font-size: 1px; background-color: rgb(99, 109, 115);"></div></div></div></div><div qtip="7" id="qtip-7" role="tooltip" aria-describedby="qtip-7-content" class="qtip qtip-station" style="border-radius: 0px; z-index: 15000; position: absolute; display: none; padding: 10px 0px 0px; width: 110px;"><div class="qtip-tip" dir="ltr" rel="topright" style="position: absolute; height: 10px; width: 10px; margin: 0px auto; line-height: 0.1px; font-size: 1px; top: 0px; right: 5px; display: block;"><canvas height="10" width="10"></canvas></div>   <div class="qtip-wrapper" style="position:relative; overflow:hidden;"><div class="qtip-borderTop" dir="ltr" style="height: 5px; margin-left: 5px; line-height: 0.1px; font-size: 1px; padding: 0px; display: block;"><div rel="topLeft" style="left:0; position:absolute; height:5px; width:5px; overflow:hidden; line-height:0.1px; font-size:1px"><canvas height="5" width="5" style="vertical-align: top"></canvas></div><div rel="topRight" style="right:0; position:absolute; height:5px; width:5px; overflow:hidden; line-height:0.1px; font-size:1px"><canvas height="5" width="5" style="vertical-align: top"></canvas></div><div class="qtip-betweenCorners" style="height: 5px; width: 100px; overflow: hidden; line-height: 0.1px; font-size: 1px; background-color: rgb(99, 109, 115);"></div></div>     <div class="qtip-contentWrapper" style="overflow: hidden; border-width: 0px 5px; border-style: solid; border-color: rgb(99, 109, 115);">        <div id="qtip-7-content" class="qtip-content qtip-content" style="color: rgb(17, 17, 17); overflow: hidden; padding: 5px 7px; background: rgb(255, 255, 231);"><b></b></div> </div><div class="qtip-borderBottom" dir="ltr" style="height: 5px; margin-left: 5px; line-height: 0.1px; font-size: 1px; padding: 0px; display: block;"><div rel="bottomLeft" style="left:0; position:absolute; height:5px; width:5px; overflow:hidden; line-height:0.1px; font-size:1px"><canvas height="5" width="5" style="vertical-align: top"></canvas></div><div rel="bottomRight" style="right:0; position:absolute; height:5px; width:5px; overflow:hidden; line-height:0.1px; font-size:1px"><canvas height="5" width="5" style="vertical-align: top"></canvas></div><div class="qtip-betweenCorners" style="height: 5px; width: 100px; overflow: hidden; line-height: 0.1px; font-size: 1px; background-color: rgb(99, 109, 115);">
+   </div>
+   	</div>
+   		</div>	
+
+</div>
+			</body>
+				</html>
+
+	
+
+
+
+
