@@ -1,0 +1,2505 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.1//EN" "http://www.openmobilealliance.org/tech/DTD/xhtml-mobile11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+        <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
+    <link rel="canonical" href="https://twitter.com/techcampuscom">
+    <meta name="twitter-redirect-url" content="twitter://user?screen_name=techcampuscom"/>
+    <meta name="twitter-redirect-srcs" content="{&quot;pwreset-iphone&quot;:true,&quot;android&quot;:true,&quot;email&quot;:true}"/>
+    <link href="https://ma.twimg.com/twitter-mobile/174b5d892d9edc5105200291251ad77d214927f6/images/favicon.ico" rel="icon" type="image/x-icon" />
+    <title>TechCampus (@techcampuscom) on Twitter</title>
+      <link href="https://ma.twimg.com/twitter-mobile/174b5d892d9edc5105200291251ad77d214927f6/assets/as.css" inline="false" media="screen" rel="stylesheet" type="text/css" />
+    <script src="https://ma.twimg.com/twitter-mobile/174b5d892d9edc5105200291251ad77d214927f6/javascripts/framebust.js" type="text/javascript"></script>
+    <script src="https://ma.twimg.com/twitter-mobile/174b5d892d9edc5105200291251ad77d214927f6/javascripts/serviceworker.js" type="text/javascript" async defer></script>
+    <meta name="google-site-verification" content="V0yIS0Ec_o3Ii9KThrCoMCkwTYMMJ_JYx_RSaGhFYvw" />
+    <meta name="deciders" content="{&quot;m2_mmw_scribe_get_url&quot;:true}" />
+  </head>
+  <body class="images nojs users-page users-show-page">
+    <div id="container">
+      
+      
+        <div id="brand_bar">
+  <table id="top">
+    <tr>
+      <td class="left">
+        <a href="/" class="brandmark">
+              <span class="imgsprite_larry_28px_gif" height="28"  title="Twitter"></span>
+
+          
+        </a>
+      </td>
+      <td class="right">
+            <img alt="|" class="divider" height="28" src="https://ma.twimg.com/twitter-mobile/174b5d892d9edc5105200291251ad77d214927f6/images/brandbar_divider.gif" />
+          <a class="search" href="#search">
+                <span class="imgsprite_search_28px_gif" height="28"  title="Search"></span>
+
+            
+          </a>
+            <img alt="|" class="divider" height="28" src="https://ma.twimg.com/twitter-mobile/174b5d892d9edc5105200291251ad77d214927f6/images/brandbar_divider.gif" />
+          <a class="signin" href="/session/new"><span>Log in</span></a>
+            <img alt="|" class="divider" height="28" src="https://ma.twimg.com/twitter-mobile/174b5d892d9edc5105200291251ad77d214927f6/images/brandbar_divider.gif" /> 
+          <a href="/signup"><span class="signup">Sign up</span></a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+      
+      
+        <div class="toast client_prompt">
+    <div class="message">
+      <div class="client-prompt">
+  <form action=/i/dismiss_settings method="post">
+    <span class="m2-auth-token">
+      <input name="authenticity_token" type="hidden" value="efc192bac27221ee45acc1b888a5b76c25357689">
+    </span>
+    <input type="hidden" name="d" value="64"/>
+    <input type="hidden" name="return_url" value="/techcampuscom"/>
+    <table><tr>
+      <td class="left">You are on Twitter Mobile because you are using an old version of Chrome. Learn more <a href='https://support.twitter.com/articles/20169327'>here</a></td>
+      
+      <td class="close"><input type="submit" id="promo_close" title="Close" value="x"/></td>
+    </tr></table>
+  </form>
+</div>
+
+    
+    </div>
+  </div>
+
+      <div id="main_content">
+        
+      <div class="profile">
+        <table class="profile-details">
+  <tr>
+      <td class="avatar">
+        <img alt="TechCampus" src="https://pbs.twimg.com/profile_images/879981176659824640/u3NDOddA_normal.jpg" />
+      </td>
+      <td class="user-info">
+        <div class="fullname">TechCampus
+        </div>
+        <div class="username">
+          <span>@</span>
+          <span class="screen-name">techcampuscom</span>
+        </div>
+        <div class="location">EU</div>
+      </td>
+  </tr>
+  <tr>
+    <td class="details" colspan="2">
+      <div class="bio">
+        <div class="dir-ltr" dir="ltr">
+          The state of the art facility with first and one of its kind center that provides Practical Courses, Bootcamps and collaborative Hackathon
+        </div>
+      </div>
+      <div class="url">
+        <div class="dir-ltr">
+          <a href="https://t.co/cCd6eeDilp" data-url="techcampus.com" class="twitter-timeline-link activeLink dir-ltr tco-link"
+              dir="ltr" rel="nofollow" target="_blank">techcampus.com</a>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
+
+        <table class="profile-stats">
+  <tr>
+    <td class="stat">
+      <div class="statnum">2,651</div>
+      <div class="statlabel"> Tweets </div>
+    </td>
+    <td class="stat">
+        <a href="/techcampuscom/following">
+          <div class="statnum">0</div>
+          <div class="statlabel"> Following </div>
+        </a>
+    </td>
+    <td class="stat stat-last">
+        <a href="/techcampuscom/followers">
+          <div class="statnum">32,059</div>
+          <div class="statlabel"> Followers </div>
+        </a>
+    </td>
+  </tr>
+</table>
+
+        <div class="profile-actions">
+        <form action="/i/guest/follow/techcampuscom" method="post">
+            <span class="m2-auth-token">
+    <input name="authenticity_token" type="hidden" value="efc192bac27221ee45acc1b888a5b76c25357689"/>
+  </span>
+          
+          <span class="w-button-common w-button">
+            <input name="commit" type="submit" value="Follow">
+          </span>
+        </form>
+      <form action="/techcampuscom/actions" method="get">
+        
+        <span class="w-button-common w-button">
+          <input name="commit" type="submit" value="•••">
+        </span>
+      </form>
+</div>
+
+      </div>
+
+        <div class="w-mediaonebox">
+    <table>
+      <tr>
+        <td style="width: 65px;">
+          <a href="/techcampuscom/media/grid?idx=0"><img src="https://pbs.twimg.com/media/D3KtD66WwAANW0C.jpg:thumb" width="65" height="78"/></a>
+        </td>
+        <td style="width: 103px;">
+          <a href="/techcampuscom/media/grid?idx=1"><img src="https://pbs.twimg.com/media/D3GGfgnX4AAS7NJ.jpg:thumb" width="103" height="78"/></a>
+        </td>
+        <td style="width: 15px;">
+          <a href="/techcampuscom/media/grid?idx=5"><img src="https://pbs.twimg.com/media/D27dF3YWkAA3FQr.jpg:thumb" width="15" height="78"/></a>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+    </table>
+    <div class="see-more">
+      <a href="/techcampuscom/media/grid">View more photos</a>
+    </div>
+</div>
+
+      <div class="timeline">
+        <table class="titlebar">
+          <tr>
+          <td>Tweets</td>
+          <td class="right fifty">
+                <form action="/techcampuscom/follow_sms" method="get">
+      
+      <span class="w-button-common w-button-follow-sms-small">
+        <input alt="Follow by SMS" src="https://ma.twimg.com/twitter-mobile/174b5d892d9edc5105200291251ad77d214927f6/images/sprites/notifications_default_sm.gif" type="image">
+      </span>
+    </form>
+
+          </td>
+        </table>
+            <table class="tweet  "
+       href="/techcampuscom/status/1113431585527947264?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/techcampuscom?p=i">
+      <img alt="TechCampus" src="https://pbs.twimg.com/profile_images/879981176659824640/u3NDOddA_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/techcampuscom?p=s">
+    <strong class="fullname">TechCampus</strong>
+    <div class="username">
+      <span>@</span>techcampuscom
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_1113431585527947264" href="/techcampuscom/status/1113431585527947264?p=p">1h</a>
+  </td>
+
+</tr>
+
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+
+      <div class="tweet-reply-context username">
+                Replying to
+          <a href="/wee1434">@wee1434</a>
+
+          <a href="/meega_ahmed">@meega_ahmed</a>
+
+        
+
+      </div>
+
+    <div class="tweet-text" data-id="1113431585527947264">
+      <div class="dir-rtl" dir="rtl">  يمكنك الحصول على الشهادة بعد انتهاء المعسكر و اجتياز الامتحان. وسوف يتاح الاختبار يوم 28 ميلادي من كل شهر علي مدار هذا العام . بالتوفيق🙏
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+
+        <span class="metadata">
+          <a href="/techcampuscom/status/1113431585527947264?p=v">View conversation</a>
+          <span class="middot">&middot;</span>
+        </span>
+
+          <span class="tweet-actions">
+            <a href="/techcampuscom/reply/1113431585527947264?p=r" class="first">
+                <span class="imgsprite_tweet_reply_gif"   title="Reply"></span>
+
+            </a>
+              <a href="/statuses/1113431585527947264/retweet?p=t">
+                    <span class="imgsprite_tweet_rt_gif"   title="Retweet"></span>
+
+              </a>
+            <a href="/statuses/1113431585527947264/favorite?p=f&amp;authenticity_token=efc192bac27221ee45acc1b888a5b76c25357689" class="favorite">
+                  <span class="imgsprite_tweet_heart_gif"   title="Like"></span>
+
+            </a>
+            <a href="/techcampuscom/status/1113431585527947264/actions" class="last"></a>
+          </span>
+    </td>
+  </tr>
+
+</table>
+
+
+            <table class="tweet  "
+       href="/techcampuscom/status/1113427841553661953?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/techcampuscom?p=i">
+      <img alt="TechCampus" src="https://pbs.twimg.com/profile_images/879981176659824640/u3NDOddA_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/techcampuscom?p=s">
+    <strong class="fullname">TechCampus</strong>
+    <div class="username">
+      <span>@</span>techcampuscom
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_1113427841553661953" href="/techcampuscom/status/1113427841553661953?p=p">2h</a>
+  </td>
+
+</tr>
+
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+
+      <div class="tweet-reply-context username">
+                Replying to
+          <a href="/wee1434">@wee1434</a>
+
+          <a href="/meega_ahmed">@meega_ahmed</a>
+
+        
+
+      </div>
+
+    <div class="tweet-text" data-id="1113427841553661953">
+      <div class="dir-rtl" dir="rtl">  أهلا عبد الرحمن 👋 &#10;امتحان المفاضلة يتم انعقاده قبل بدأ المعسكر .
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+
+        <span class="metadata">
+          <a href="/techcampuscom/status/1113427841553661953?p=v">View conversation</a>
+          <span class="middot">&middot;</span>
+        </span>
+
+          <span class="tweet-actions">
+            <a href="/techcampuscom/reply/1113427841553661953?p=r" class="first">
+                <span class="imgsprite_tweet_reply_gif"   title="Reply"></span>
+
+            </a>
+              <a href="/statuses/1113427841553661953/retweet?p=t">
+                    <span class="imgsprite_tweet_rt_gif"   title="Retweet"></span>
+
+              </a>
+            <a href="/statuses/1113427841553661953/favorite?p=f&amp;authenticity_token=efc192bac27221ee45acc1b888a5b76c25357689" class="favorite">
+                  <span class="imgsprite_tweet_heart_gif"   title="Like"></span>
+
+            </a>
+            <a href="/techcampuscom/status/1113427841553661953/actions" class="last"></a>
+          </span>
+    </td>
+  </tr>
+
+</table>
+
+
+            <table class="tweet  "
+       href="/techcampuscom/status/1113427120884154373?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/techcampuscom?p=i">
+      <img alt="TechCampus" src="https://pbs.twimg.com/profile_images/879981176659824640/u3NDOddA_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/techcampuscom?p=s">
+    <strong class="fullname">TechCampus</strong>
+    <div class="username">
+      <span>@</span>techcampuscom
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_1113427120884154373" href="/techcampuscom/status/1113427120884154373?p=p">2h</a>
+  </td>
+
+</tr>
+
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+
+      <div class="tweet-reply-context username">
+                Replying to
+          <a href="/csitba">@csitba</a>
+
+        
+        
+
+      </div>
+
+    <div class="tweet-text" data-id="1113427120884154373">
+      <div class="dir-rtl" dir="rtl">  أهلا رغد 👋 &#10;يمكنك مراجعة الرسائل المهملة. بالتوفيق 🙏
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+
+        <span class="metadata">
+          <a href="/techcampuscom/status/1113427120884154373?p=v">View conversation</a>
+          <span class="middot">&middot;</span>
+        </span>
+
+          <span class="tweet-actions">
+            <a href="/techcampuscom/reply/1113427120884154373?p=r" class="first">
+                <span class="imgsprite_tweet_reply_gif"   title="Reply"></span>
+
+            </a>
+              <a href="/statuses/1113427120884154373/retweet?p=t">
+                    <span class="imgsprite_tweet_rt_gif"   title="Retweet"></span>
+
+              </a>
+            <a href="/statuses/1113427120884154373/favorite?p=f&amp;authenticity_token=efc192bac27221ee45acc1b888a5b76c25357689" class="favorite">
+                  <span class="imgsprite_tweet_heart_gif"   title="Like"></span>
+
+            </a>
+            <a href="/techcampuscom/status/1113427120884154373/actions" class="last"></a>
+          </span>
+    </td>
+  </tr>
+
+</table>
+
+
+            <table class="tweet  "
+       href="/techcampuscom/status/1113415380352028674?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/techcampuscom?p=i">
+      <img alt="TechCampus" src="https://pbs.twimg.com/profile_images/879981176659824640/u3NDOddA_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/techcampuscom?p=s">
+    <strong class="fullname">TechCampus</strong>
+    <div class="username">
+      <span>@</span>techcampuscom
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_1113415380352028674" href="/techcampuscom/status/1113415380352028674?p=p">2h</a>
+  </td>
+
+</tr>
+
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+
+      <div class="tweet-reply-context username">
+                Replying to
+          <a href="/meega_ahmed">@meega_ahmed</a>
+
+        
+        
+
+      </div>
+
+    <div class="tweet-text" data-id="1113415380352028674">
+      <div class="dir-rtl" dir="rtl">  أهلا أحمد 👋 &#10;البث المباشر مخصص لمن اجتازوا امتحان المفاضلة فقط و لمتابعة الدروس المسجلة يمكنك اتباع الخطوات الموضحة في الرابط التالي &#10;<a href="https://t.co/3oQ6wZcExV"rel="nofollow noopener"dir="ltr"data-expanded-url="https://techcampus.com/howto/?ondemand"data-url="https://techcampus.com/howto/?ondemand"class="twitter_external_link dir-ltr tco-link"target="_blank"title="https://techcampus.com/howto/?ondemand">techcampus.com/howto/?ondemand</a>  بالتوفيق 🙏
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+
+        <span class="metadata">
+          <a href="/techcampuscom/status/1113415380352028674?p=v">View conversation</a>
+          <span class="middot">&middot;</span>
+        </span>
+
+          <span class="tweet-actions">
+            <a href="/techcampuscom/reply/1113415380352028674?p=r" class="first">
+                <span class="imgsprite_tweet_reply_gif"   title="Reply"></span>
+
+            </a>
+              <a href="/statuses/1113415380352028674/retweet?p=t">
+                    <span class="imgsprite_tweet_rt_gif"   title="Retweet"></span>
+
+              </a>
+            <a href="/statuses/1113415380352028674/favorite?p=f&amp;authenticity_token=efc192bac27221ee45acc1b888a5b76c25357689" class="favorite">
+                  <span class="imgsprite_tweet_heart_gif"   title="Like"></span>
+
+            </a>
+            <a href="/techcampuscom/status/1113415380352028674/actions" class="last"></a>
+          </span>
+    </td>
+  </tr>
+
+</table>
+
+
+            <table class="tweet  "
+       href="/techcampuscom/status/1113398711042945024?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/techcampuscom?p=i">
+      <img alt="TechCampus" src="https://pbs.twimg.com/profile_images/879981176659824640/u3NDOddA_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/techcampuscom?p=s">
+    <strong class="fullname">TechCampus</strong>
+    <div class="username">
+      <span>@</span>techcampuscom
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_1113398711042945024" href="/techcampuscom/status/1113398711042945024?p=p">3h</a>
+  </td>
+
+</tr>
+
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+
+      <div class="tweet-reply-context username">
+                Replying to
+          <a href="/i_amk94">@i_amk94</a>
+
+        
+        
+
+      </div>
+
+    <div class="tweet-text" data-id="1113398711042945024">
+      <div class="dir-rtl" dir="rtl">  أهلا أسماء👋 &#10;يمكنك الدخول من متصفح كروم من خلال اللاب توب . بالتوفيق 🙏
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+
+        <span class="metadata">
+          <a href="/techcampuscom/status/1113398711042945024?p=v">View conversation</a>
+          <span class="middot">&middot;</span>
+        </span>
+
+          <span class="tweet-actions">
+            <a href="/techcampuscom/reply/1113398711042945024?p=r" class="first">
+                <span class="imgsprite_tweet_reply_gif"   title="Reply"></span>
+
+            </a>
+              <a href="/statuses/1113398711042945024/retweet?p=t">
+                    <span class="imgsprite_tweet_rt_gif"   title="Retweet"></span>
+
+              </a>
+            <a href="/statuses/1113398711042945024/favorite?p=f&amp;authenticity_token=efc192bac27221ee45acc1b888a5b76c25357689" class="favorite">
+                  <span class="imgsprite_tweet_heart_gif"   title="Like"></span>
+
+            </a>
+            <a href="/techcampuscom/status/1113398711042945024/actions" class="last"></a>
+          </span>
+    </td>
+  </tr>
+
+</table>
+
+
+            <table class="tweet  "
+       href="/techcampuscom/status/1113398420356640769?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/techcampuscom?p=i">
+      <img alt="TechCampus" src="https://pbs.twimg.com/profile_images/879981176659824640/u3NDOddA_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/techcampuscom?p=s">
+    <strong class="fullname">TechCampus</strong>
+    <div class="username">
+      <span>@</span>techcampuscom
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_1113398420356640769" href="/techcampuscom/status/1113398420356640769?p=p">3h</a>
+  </td>
+
+</tr>
+
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+
+      <div class="tweet-reply-context username">
+                Replying to
+          <a href="/shahad_yousef_">@shahad_yousef_</a>
+
+        
+        
+
+      </div>
+
+    <div class="tweet-text" data-id="1113398420356640769">
+      <div class="dir-rtl" dir="rtl">  أهلا شهد👋 &#10;يمكنك الدخول من متصفح كروم من خلال اللاب توب . بالتوفيق 🙏
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+
+        <span class="metadata">
+          <a href="/techcampuscom/status/1113398420356640769?p=v">View conversation</a>
+          <span class="middot">&middot;</span>
+        </span>
+
+          <span class="tweet-actions">
+            <a href="/techcampuscom/reply/1113398420356640769?p=r" class="first">
+                <span class="imgsprite_tweet_reply_gif"   title="Reply"></span>
+
+            </a>
+              <a href="/statuses/1113398420356640769/retweet?p=t">
+                    <span class="imgsprite_tweet_rt_gif"   title="Retweet"></span>
+
+              </a>
+            <a href="/statuses/1113398420356640769/favorite?p=f&amp;authenticity_token=efc192bac27221ee45acc1b888a5b76c25357689" class="favorite">
+                  <span class="imgsprite_tweet_heart_gif"   title="Like"></span>
+
+            </a>
+            <a href="/techcampuscom/status/1113398420356640769/actions" class="last"></a>
+          </span>
+    </td>
+  </tr>
+
+</table>
+
+
+            <table class="tweet  "
+       href="/techcampuscom/status/1113398130421239809?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/techcampuscom?p=i">
+      <img alt="TechCampus" src="https://pbs.twimg.com/profile_images/879981176659824640/u3NDOddA_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/techcampuscom?p=s">
+    <strong class="fullname">TechCampus</strong>
+    <div class="username">
+      <span>@</span>techcampuscom
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_1113398130421239809" href="/techcampuscom/status/1113398130421239809?p=p">4h</a>
+  </td>
+
+</tr>
+
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+
+      <div class="tweet-reply-context username">
+                Replying to
+          <a href="/iax94">@iax94</a>
+
+        
+        
+
+      </div>
+
+    <div class="tweet-text" data-id="1113398130421239809">
+      <div class="dir-rtl" dir="rtl">  أهلا بك 👋 &#10;لاسترجاع  كلمة المرور يمكنك اتباع الخطوات الموضحة في الرابط التالي &#10;<a href="https://t.co/YDkb3EAwim"rel="nofollow noopener"dir="ltr"data-expanded-url="https://techcampus.com/howto/?forget"data-url="https://techcampus.com/howto/?forget"class="twitter_external_link dir-ltr tco-link"target="_blank"title="https://techcampus.com/howto/?forget">techcampus.com/howto/?forget</a>
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+
+        <span class="metadata">
+          <a href="/techcampuscom/status/1113398130421239809?p=v">View conversation</a>
+          <span class="middot">&middot;</span>
+        </span>
+
+          <span class="tweet-actions">
+            <a href="/techcampuscom/reply/1113398130421239809?p=r" class="first">
+                <span class="imgsprite_tweet_reply_gif"   title="Reply"></span>
+
+            </a>
+              <a href="/statuses/1113398130421239809/retweet?p=t">
+                    <span class="imgsprite_tweet_rt_gif"   title="Retweet"></span>
+
+              </a>
+            <a href="/statuses/1113398130421239809/favorite?p=f&amp;authenticity_token=efc192bac27221ee45acc1b888a5b76c25357689" class="favorite">
+                  <span class="imgsprite_tweet_heart_gif"   title="Like"></span>
+
+            </a>
+            <a href="/techcampuscom/status/1113398130421239809/actions" class="last"></a>
+          </span>
+    </td>
+  </tr>
+
+</table>
+
+
+            <table class="tweet  "
+       href="/techcampuscom/status/1113395203363229697?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/techcampuscom?p=i">
+      <img alt="TechCampus" src="https://pbs.twimg.com/profile_images/879981176659824640/u3NDOddA_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/techcampuscom?p=s">
+    <strong class="fullname">TechCampus</strong>
+    <div class="username">
+      <span>@</span>techcampuscom
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_1113395203363229697" href="/techcampuscom/status/1113395203363229697?p=p">4h</a>
+  </td>
+
+</tr>
+
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+
+      <div class="tweet-reply-context username">
+                Replying to
+          <a href="/OmarPukka">@OmarPukka</a>
+
+        
+        
+
+      </div>
+
+    <div class="tweet-text" data-id="1113395203363229697">
+      <div class="dir-rtl" dir="rtl">  أهلا بك 👋 &#10;لمعرفة كيفية متابعة الدروس المسجلة قم باتباع الخطوات الموضحة بالرابط التالي &#10;<a href="https://t.co/3oQ6wZcExV"rel="nofollow noopener"dir="ltr"data-expanded-url="https://techcampus.com/howto/?ondemand"data-url="https://techcampus.com/howto/?ondemand"class="twitter_external_link dir-ltr tco-link"target="_blank"title="https://techcampus.com/howto/?ondemand">techcampus.com/howto/?ondemand</a>
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+
+        <span class="metadata">
+          <a href="/techcampuscom/status/1113395203363229697?p=v">View conversation</a>
+          <span class="middot">&middot;</span>
+        </span>
+
+          <span class="tweet-actions">
+            <a href="/techcampuscom/reply/1113395203363229697?p=r" class="first">
+                <span class="imgsprite_tweet_reply_gif"   title="Reply"></span>
+
+            </a>
+              <a href="/statuses/1113395203363229697/retweet?p=t">
+                    <span class="imgsprite_tweet_rt_gif"   title="Retweet"></span>
+
+              </a>
+            <a href="/statuses/1113395203363229697/favorite?p=f&amp;authenticity_token=efc192bac27221ee45acc1b888a5b76c25357689" class="favorite">
+                  <span class="imgsprite_tweet_heart_gif"   title="Like"></span>
+
+            </a>
+            <a href="/techcampuscom/status/1113395203363229697/actions" class="last"></a>
+          </span>
+    </td>
+  </tr>
+
+</table>
+
+
+            <table class="tweet  "
+       href="/techcampuscom/status/1113394135514451969?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/techcampuscom?p=i">
+      <img alt="TechCampus" src="https://pbs.twimg.com/profile_images/879981176659824640/u3NDOddA_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/techcampuscom?p=s">
+    <strong class="fullname">TechCampus</strong>
+    <div class="username">
+      <span>@</span>techcampuscom
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_1113394135514451969" href="/techcampuscom/status/1113394135514451969?p=p">4h</a>
+  </td>
+
+</tr>
+
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+
+      <div class="tweet-reply-context username">
+                Replying to
+          <a href="/rERb5Fk9LPzl3sr">@rERb5Fk9LPzl3sr</a>
+
+        
+        
+
+      </div>
+
+    <div class="tweet-text" data-id="1113394135514451969">
+      <div class="dir-rtl" dir="rtl">  أهلا محسن 👋 &#10;المعسكر أون لاين و لمعرفة مزيد من التفاصيل يمكنك الدخول على الرابط التالي &#10; <a href="https://t.co/fac6wNH1yO"rel="nofollow noopener"dir="ltr"data-expanded-url="https://techcampus.com/bootcamp"data-url="https://techcampus.com/bootcamp"class="twitter_external_link dir-ltr tco-link"target="_blank"title="https://techcampus.com/bootcamp">techcampus.com/bootcamp</a>&#10;أما عن المعسكر الصيفي  Cyber offline سيقام بجدة يوم 23-6 . بالتوفيق 🙏
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+
+        <span class="metadata">
+          <a href="/techcampuscom/status/1113394135514451969?p=v">View conversation</a>
+          <span class="middot">&middot;</span>
+        </span>
+
+          <span class="tweet-actions">
+            <a href="/techcampuscom/reply/1113394135514451969?p=r" class="first">
+                <span class="imgsprite_tweet_reply_gif"   title="Reply"></span>
+
+            </a>
+              <a href="/statuses/1113394135514451969/retweet?p=t">
+                    <span class="imgsprite_tweet_rt_gif"   title="Retweet"></span>
+
+              </a>
+            <a href="/statuses/1113394135514451969/favorite?p=f&amp;authenticity_token=efc192bac27221ee45acc1b888a5b76c25357689" class="favorite">
+                  <span class="imgsprite_tweet_heart_gif"   title="Like"></span>
+
+            </a>
+            <a href="/techcampuscom/status/1113394135514451969/actions" class="last"></a>
+          </span>
+    </td>
+  </tr>
+
+</table>
+
+
+            <table class="tweet  "
+       href="/techcampuscom/status/1113147623081435136?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/techcampuscom?p=i">
+      <img alt="TechCampus" src="https://pbs.twimg.com/profile_images/879981176659824640/u3NDOddA_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/techcampuscom?p=s">
+    <strong class="fullname">TechCampus</strong>
+    <div class="username">
+      <span>@</span>techcampuscom
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_1113147623081435136" href="/techcampuscom/status/1113147623081435136?p=p">20h</a>
+  </td>
+
+</tr>
+
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+
+      <div class="tweet-reply-context username">
+                Replying to
+          <a href="/Rana201106">@Rana201106</a>
+
+        
+        
+
+      </div>
+
+    <div class="tweet-text" data-id="1113147623081435136">
+      <div class="dir-rtl" dir="rtl">  اهلا ومرحبا نعم ستكون متاحة في نهاية المساء 🙏
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+
+        <span class="metadata">
+          <a href="/techcampuscom/status/1113147623081435136?p=v">View conversation</a>
+          <span class="middot">&middot;</span>
+        </span>
+
+          <span class="tweet-actions">
+            <a href="/techcampuscom/reply/1113147623081435136?p=r" class="first">
+                <span class="imgsprite_tweet_reply_gif"   title="Reply"></span>
+
+            </a>
+              <a href="/statuses/1113147623081435136/retweet?p=t">
+                    <span class="imgsprite_tweet_rt_gif"   title="Retweet"></span>
+
+              </a>
+            <a href="/statuses/1113147623081435136/favorite?p=f&amp;authenticity_token=efc192bac27221ee45acc1b888a5b76c25357689" class="favorite">
+                  <span class="imgsprite_tweet_heart_gif"   title="Like"></span>
+
+            </a>
+            <a href="/techcampuscom/status/1113147623081435136/actions" class="last"></a>
+          </span>
+    </td>
+  </tr>
+
+</table>
+
+
+            <table class="tweet  "
+       href="/techcampuscom/status/1113142362803453953?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/techcampuscom?p=i">
+      <img alt="TechCampus" src="https://pbs.twimg.com/profile_images/879981176659824640/u3NDOddA_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/techcampuscom?p=s">
+    <strong class="fullname">TechCampus</strong>
+    <div class="username">
+      <span>@</span>techcampuscom
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_1113142362803453953" href="/techcampuscom/status/1113142362803453953?p=p">20h</a>
+  </td>
+
+</tr>
+
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+
+
+    <div class="tweet-text" data-id="1113142362803453953">
+      <div class="dir-rtl" dir="rtl">  معسكر حماية الشبكات Network Security Bootcamp 🔮 سلسلة من 3 دورات تحترافية خلال 70 ساعة تدريبة لإحتراف عالم أمن الشبكات من مستوى مبتدأ الى متقدم.&#10;⏺+Network&#10;⏺CCNA Security &#10;⏺CNC Cyber Network Certified🛡🕸&#10;للتسجيل 😍👌 المقاعد محدودة، شامل 4 شهادات&#10;<a href="https://t.co/NkcurrxvIG"rel="nofollow noopener"dir="ltr"data-expanded-url="https://techcampus.com/bootcamp?networksec"data-url="https://techcampus.com/bootcamp?networksec"class="twitter_external_link dir-ltr tco-link"target="_blank"title="https://techcampus.com/bootcamp?networksec">techcampus.com/bootcamp?netwo…</a> <a href="https://t.co/zdQybpC2j3"data-pre-embedded="true"rel="nofollow"data-entity-id="1113142340779163648"dir="ltr"data-url="https://twitter.com/techcampuscom/status/1113142362803453953/photo/1"data-tco-id="zdQybpC2j3"class="twitter_external_link dir-ltr tco-link has-expanded-path"target="_top"data-expanded-path="/techcampuscom/status/1113142362803453953/photo/1">pic.twitter.com/zdQybpC2j3</a>
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+
+        <span class="metadata">
+          <a href="/techcampuscom/status/1113142362803453953?p=v">View photo</a>
+          <span class="middot">&middot;</span>
+        </span>
+
+          <span class="tweet-actions">
+            <a href="/techcampuscom/reply/1113142362803453953?p=r" class="first">
+                <span class="imgsprite_tweet_reply_gif"   title="Reply"></span>
+
+            </a>
+              <a href="/statuses/1113142362803453953/retweet?p=t">
+                    <span class="imgsprite_tweet_rt_gif"   title="Retweet"></span>
+
+              </a>
+            <a href="/statuses/1113142362803453953/favorite?p=f&amp;authenticity_token=efc192bac27221ee45acc1b888a5b76c25357689" class="favorite">
+                  <span class="imgsprite_tweet_heart_gif"   title="Like"></span>
+
+            </a>
+            <a href="/techcampuscom/status/1113142362803453953/actions" class="last"></a>
+          </span>
+    </td>
+  </tr>
+
+</table>
+
+
+            <table class="tweet  "
+       href="/techcampuscom/status/1113083913306542080?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/techcampuscom?p=i">
+      <img alt="TechCampus" src="https://pbs.twimg.com/profile_images/879981176659824640/u3NDOddA_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/techcampuscom?p=s">
+    <strong class="fullname">TechCampus</strong>
+    <div class="username">
+      <span>@</span>techcampuscom
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_1113083913306542080" href="/techcampuscom/status/1113083913306542080?p=p">Apr 2</a>
+  </td>
+
+</tr>
+
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+
+      <div class="tweet-reply-context username">
+                Replying to
+          <a href="/a14_sani">@a14_sani</a>
+
+        
+        
+
+      </div>
+
+    <div class="tweet-text" data-id="1113083913306542080">
+      <div class="dir-rtl" dir="rtl">  وعليكم السلام 👋 برجاء البحث عن كود التحقق في البريد أو الرسائل المهملة. بالتوفيق 🙏
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+
+        <span class="metadata">
+          <a href="/techcampuscom/status/1113083913306542080?p=v">View conversation</a>
+          <span class="middot">&middot;</span>
+        </span>
+
+          <span class="tweet-actions">
+            <a href="/techcampuscom/reply/1113083913306542080?p=r" class="first">
+                <span class="imgsprite_tweet_reply_gif"   title="Reply"></span>
+
+            </a>
+              <a href="/statuses/1113083913306542080/retweet?p=t">
+                    <span class="imgsprite_tweet_rt_gif"   title="Retweet"></span>
+
+              </a>
+            <a href="/statuses/1113083913306542080/favorite?p=f&amp;authenticity_token=efc192bac27221ee45acc1b888a5b76c25357689" class="favorite">
+                  <span class="imgsprite_tweet_heart_gif"   title="Like"></span>
+
+            </a>
+            <a href="/techcampuscom/status/1113083913306542080/actions" class="last"></a>
+          </span>
+    </td>
+  </tr>
+
+</table>
+
+
+            <table class="tweet  "
+       href="/techcampuscom/status/1113062874715381762?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/techcampuscom?p=i">
+      <img alt="TechCampus" src="https://pbs.twimg.com/profile_images/879981176659824640/u3NDOddA_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/techcampuscom?p=s">
+    <strong class="fullname">TechCampus</strong>
+    <div class="username">
+      <span>@</span>techcampuscom
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_1113062874715381762" href="/techcampuscom/status/1113062874715381762?p=p">Apr 2</a>
+  </td>
+
+</tr>
+
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+
+      <div class="tweet-reply-context username">
+                Replying to
+          <a href="/noude1997">@noude1997</a>
+
+        
+        
+
+      </div>
+
+    <div class="tweet-text" data-id="1113062874715381762">
+      <div class="dir-rtl" dir="rtl">  وعليكم السلام 👋 &#10;يتم احتساب الحضور للطلاب الذين يحضرون البث المباشر فقط واذا واجهتك مشكلة يمكنك التواصل مع الدعم الفني لمساعدتك 🙏
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+
+        <span class="metadata">
+          <a href="/techcampuscom/status/1113062874715381762?p=v">View conversation</a>
+          <span class="middot">&middot;</span>
+        </span>
+
+          <span class="tweet-actions">
+            <a href="/techcampuscom/reply/1113062874715381762?p=r" class="first">
+                <span class="imgsprite_tweet_reply_gif"   title="Reply"></span>
+
+            </a>
+              <a href="/statuses/1113062874715381762/retweet?p=t">
+                    <span class="imgsprite_tweet_rt_gif"   title="Retweet"></span>
+
+              </a>
+            <a href="/statuses/1113062874715381762/favorite?p=f&amp;authenticity_token=efc192bac27221ee45acc1b888a5b76c25357689" class="favorite">
+                  <span class="imgsprite_tweet_heart_gif"   title="Like"></span>
+
+            </a>
+            <a href="/techcampuscom/status/1113062874715381762/actions" class="last"></a>
+          </span>
+    </td>
+  </tr>
+
+</table>
+
+
+            <table class="tweet  "
+       href="/techcampuscom/status/1113061684090830848?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/techcampuscom?p=i">
+      <img alt="TechCampus" src="https://pbs.twimg.com/profile_images/879981176659824640/u3NDOddA_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/techcampuscom?p=s">
+    <strong class="fullname">TechCampus</strong>
+    <div class="username">
+      <span>@</span>techcampuscom
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_1113061684090830848" href="/techcampuscom/status/1113061684090830848?p=p">Apr 2</a>
+  </td>
+
+</tr>
+
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+
+      <div class="tweet-reply-context username">
+                Replying to
+          <a href="/r1dmd">@r1dmd</a>
+
+        
+        
+
+      </div>
+
+    <div class="tweet-text" data-id="1113061684090830848">
+      <div class="dir-rtl" dir="rtl">  أهلا بك👋  لمتابعة الدروس المسجلة يرجى اتباع الخطوات من خلال الرابط التالي &#10;<a href="https://t.co/3oQ6wYV39l"rel="nofollow noopener"dir="ltr"data-expanded-url="https://techcampus.com/howto/?ondemand"data-url="https://techcampus.com/howto/?ondemand"class="twitter_external_link dir-ltr tco-link"target="_blank"title="https://techcampus.com/howto/?ondemand">techcampus.com/howto/?ondemand</a>
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+
+        <span class="metadata">
+          <a href="/techcampuscom/status/1113061684090830848?p=v">View conversation</a>
+          <span class="middot">&middot;</span>
+        </span>
+
+          <span class="tweet-actions">
+            <a href="/techcampuscom/reply/1113061684090830848?p=r" class="first">
+                <span class="imgsprite_tweet_reply_gif"   title="Reply"></span>
+
+            </a>
+              <a href="/statuses/1113061684090830848/retweet?p=t">
+                    <span class="imgsprite_tweet_rt_gif"   title="Retweet"></span>
+
+              </a>
+            <a href="/statuses/1113061684090830848/favorite?p=f&amp;authenticity_token=efc192bac27221ee45acc1b888a5b76c25357689" class="favorite">
+                  <span class="imgsprite_tweet_heart_gif"   title="Like"></span>
+
+            </a>
+            <a href="/techcampuscom/status/1113061684090830848/actions" class="last"></a>
+          </span>
+    </td>
+  </tr>
+
+</table>
+
+
+            <table class="tweet  "
+       href="/techcampuscom/status/1113050153894719493?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/techcampuscom?p=i">
+      <img alt="TechCampus" src="https://pbs.twimg.com/profile_images/879981176659824640/u3NDOddA_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/techcampuscom?p=s">
+    <strong class="fullname">TechCampus</strong>
+    <div class="username">
+      <span>@</span>techcampuscom
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_1113050153894719493" href="/techcampuscom/status/1113050153894719493?p=p">Apr 2</a>
+  </td>
+
+</tr>
+
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+
+      <div class="tweet-reply-context username">
+                Replying to
+          <a href="/haamoud__">@haamoud__</a>
+
+          <a href="/alosefer">@alosefer</a>
+
+        
+
+      </div>
+
+    <div class="tweet-text" data-id="1113050153894719493">
+      <div class="dir-rtl" dir="rtl">  أهلا حمود 👋 &#10;الدورة أون لاين و يمكنك التسجيل من خلال الرابط التالي . ستنطلق الدور 7 ابريل من الساعة 7 ل 10 مساء بتوقيت السعودية &#10;<a href="https://t.co/SAdsbQip4N"rel="nofollow noopener"dir="ltr"data-expanded-url="https://techcampus.com/course?researchpaper"data-url="https://techcampus.com/course?researchpaper"class="twitter_external_link dir-ltr tco-link"target="_blank"title="https://techcampus.com/course?researchpaper">techcampus.com/course?researc…</a> …
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+
+        <span class="metadata">
+          <a href="/techcampuscom/status/1113050153894719493?p=v">View conversation</a>
+          <span class="middot">&middot;</span>
+        </span>
+
+          <span class="tweet-actions">
+            <a href="/techcampuscom/reply/1113050153894719493?p=r" class="first">
+                <span class="imgsprite_tweet_reply_gif"   title="Reply"></span>
+
+            </a>
+              <a href="/statuses/1113050153894719493/retweet?p=t">
+                    <span class="imgsprite_tweet_rt_gif"   title="Retweet"></span>
+
+              </a>
+            <a href="/statuses/1113050153894719493/favorite?p=f&amp;authenticity_token=efc192bac27221ee45acc1b888a5b76c25357689" class="favorite">
+                  <span class="imgsprite_tweet_heart_gif"   title="Like"></span>
+
+            </a>
+            <a href="/techcampuscom/status/1113050153894719493/actions" class="last"></a>
+          </span>
+    </td>
+  </tr>
+
+</table>
+
+
+            <table class="tweet  "
+       href="/techcampuscom/status/1113047765981040640?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/techcampuscom?p=i">
+      <img alt="TechCampus" src="https://pbs.twimg.com/profile_images/879981176659824640/u3NDOddA_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/techcampuscom?p=s">
+    <strong class="fullname">TechCampus</strong>
+    <div class="username">
+      <span>@</span>techcampuscom
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_1113047765981040640" href="/techcampuscom/status/1113047765981040640?p=p">Apr 2</a>
+  </td>
+
+</tr>
+
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+
+      <div class="tweet-reply-context username">
+                Replying to
+          <a href="/AZ00Z49">@AZ00Z49</a>
+
+          <a href="/alosefer">@alosefer</a>
+
+        
+
+      </div>
+
+    <div class="tweet-text" data-id="1113047765981040640">
+      <div class="dir-rtl" dir="rtl">  أهلا بك👋 &#10; يمكنك التسجيل من خلال هذا الرابط&#10;<a href="https://t.co/SAdsbQip4N"rel="nofollow noopener"dir="ltr"data-expanded-url="https://techcampus.com/course?researchpaper"data-url="https://techcampus.com/course?researchpaper"class="twitter_external_link dir-ltr tco-link"target="_blank"title="https://techcampus.com/course?researchpaper">techcampus.com/course?researc…</a> …&#10;و لمعرفة كيفية التسجيل من خلال الرابط التالي &#10;<a href="https://t.co/RDuwY9HZJO"rel="nofollow noopener"dir="ltr"data-expanded-url="https://techcampus.com/howto/?enroll"data-url="https://techcampus.com/howto/?enroll"class="twitter_external_link dir-ltr tco-link"target="_blank"title="https://techcampus.com/howto/?enroll">techcampus.com/howto/?enroll</a>
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+
+        <span class="metadata">
+          <a href="/techcampuscom/status/1113047765981040640?p=v">View conversation</a>
+          <span class="middot">&middot;</span>
+        </span>
+
+          <span class="tweet-actions">
+            <a href="/techcampuscom/reply/1113047765981040640?p=r" class="first">
+                <span class="imgsprite_tweet_reply_gif"   title="Reply"></span>
+
+            </a>
+              <a href="/statuses/1113047765981040640/retweet?p=t">
+                    <span class="imgsprite_tweet_rt_gif"   title="Retweet"></span>
+
+              </a>
+            <a href="/statuses/1113047765981040640/favorite?p=f&amp;authenticity_token=efc192bac27221ee45acc1b888a5b76c25357689" class="favorite">
+                  <span class="imgsprite_tweet_heart_gif"   title="Like"></span>
+
+            </a>
+            <a href="/techcampuscom/status/1113047765981040640/actions" class="last"></a>
+          </span>
+    </td>
+  </tr>
+
+</table>
+
+
+            <table class="tweet  "
+       href="/techcampuscom/status/1113047392461492224?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/techcampuscom?p=i">
+      <img alt="TechCampus" src="https://pbs.twimg.com/profile_images/879981176659824640/u3NDOddA_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/techcampuscom?p=s">
+    <strong class="fullname">TechCampus</strong>
+    <div class="username">
+      <span>@</span>techcampuscom
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_1113047392461492224" href="/techcampuscom/status/1113047392461492224?p=p">Apr 2</a>
+  </td>
+
+</tr>
+
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+
+      <div class="tweet-reply-context username">
+                Replying to
+          <a href="/1998Shoqi">@1998Shoqi</a>
+
+        
+        
+
+      </div>
+
+    <div class="tweet-text" data-id="1113047392461492224">
+      <div class="dir-rtl" dir="rtl">  أهلا بك👋 &#10; يمكنك التسجيل من خلال هذا الرابط&#10;<a href="https://t.co/SAdsbQip4N"rel="nofollow noopener"dir="ltr"data-expanded-url="https://techcampus.com/course?researchpaper"data-url="https://techcampus.com/course?researchpaper"class="twitter_external_link dir-ltr tco-link"target="_blank"title="https://techcampus.com/course?researchpaper">techcampus.com/course?researc…</a>&#10;و لمعرفة كيفية التسجيل من خلال الرابط التالي &#10;<a href="https://t.co/RDuwY9HZJO"rel="nofollow noopener"dir="ltr"data-expanded-url="https://techcampus.com/howto/?enroll"data-url="https://techcampus.com/howto/?enroll"class="twitter_external_link dir-ltr tco-link"target="_blank"title="https://techcampus.com/howto/?enroll">techcampus.com/howto/?enroll</a>
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+
+        <span class="metadata">
+          <a href="/techcampuscom/status/1113047392461492224?p=v">View conversation</a>
+          <span class="middot">&middot;</span>
+        </span>
+
+          <span class="tweet-actions">
+            <a href="/techcampuscom/reply/1113047392461492224?p=r" class="first">
+                <span class="imgsprite_tweet_reply_gif"   title="Reply"></span>
+
+            </a>
+              <a href="/statuses/1113047392461492224/retweet?p=t">
+                    <span class="imgsprite_tweet_rt_gif"   title="Retweet"></span>
+
+              </a>
+            <a href="/statuses/1113047392461492224/favorite?p=f&amp;authenticity_token=efc192bac27221ee45acc1b888a5b76c25357689" class="favorite">
+                  <span class="imgsprite_tweet_heart_gif"   title="Like"></span>
+
+            </a>
+            <a href="/techcampuscom/status/1113047392461492224/actions" class="last"></a>
+          </span>
+    </td>
+  </tr>
+
+</table>
+
+
+            <table class="tweet  "
+       href="/techcampuscom/status/1113045459914948608?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/techcampuscom?p=i">
+      <img alt="TechCampus" src="https://pbs.twimg.com/profile_images/879981176659824640/u3NDOddA_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/techcampuscom?p=s">
+    <strong class="fullname">TechCampus</strong>
+    <div class="username">
+      <span>@</span>techcampuscom
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_1113045459914948608" href="/techcampuscom/status/1113045459914948608?p=p">Apr 2</a>
+  </td>
+
+</tr>
+
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+
+      <div class="tweet-reply-context username">
+                Replying to
+          <a href="/NourhanAhmed07">@NourhanAhmed07</a>
+
+        
+        
+
+      </div>
+
+    <div class="tweet-text" data-id="1113045459914948608">
+      <div class="dir-rtl" dir="rtl">  أهلا نورهان 👋 &#10;يمكنك التسجيل من خلال الرابط التالي &#10;<a href="https://t.co/n9cQm4l6YL"rel="nofollow noopener"dir="ltr"data-expanded-url="https://techcampus.com/bootcamp?python"data-url="https://techcampus.com/bootcamp?python"class="twitter_external_link dir-ltr tco-link"target="_blank"title="https://techcampus.com/bootcamp?python">techcampus.com/bootcamp?python</a>&#10; و لكيفية متابعة الدروس المسجلة من خلال الرابط التالي &#10;<a href="https://t.co/3oQ6wZcExV"rel="nofollow noopener"dir="ltr"data-expanded-url="https://techcampus.com/howto/?ondemand"data-url="https://techcampus.com/howto/?ondemand"class="twitter_external_link dir-ltr tco-link"target="_blank"title="https://techcampus.com/howto/?ondemand">techcampus.com/howto/?ondemand</a>
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+
+        <span class="metadata">
+          <a href="/techcampuscom/status/1113045459914948608?p=v">View conversation</a>
+          <span class="middot">&middot;</span>
+        </span>
+
+          <span class="tweet-actions">
+            <a href="/techcampuscom/reply/1113045459914948608?p=r" class="first">
+                <span class="imgsprite_tweet_reply_gif"   title="Reply"></span>
+
+            </a>
+              <a href="/statuses/1113045459914948608/retweet?p=t">
+                    <span class="imgsprite_tweet_rt_gif"   title="Retweet"></span>
+
+              </a>
+            <a href="/statuses/1113045459914948608/favorite?p=f&amp;authenticity_token=efc192bac27221ee45acc1b888a5b76c25357689" class="favorite">
+                  <span class="imgsprite_tweet_heart_gif"   title="Like"></span>
+
+            </a>
+            <a href="/techcampuscom/status/1113045459914948608/actions" class="last"></a>
+          </span>
+    </td>
+  </tr>
+
+</table>
+
+
+            <table class="tweet  "
+       href="/techcampuscom/status/1113043411953684480?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/techcampuscom?p=i">
+      <img alt="TechCampus" src="https://pbs.twimg.com/profile_images/879981176659824640/u3NDOddA_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/techcampuscom?p=s">
+    <strong class="fullname">TechCampus</strong>
+    <div class="username">
+      <span>@</span>techcampuscom
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_1113043411953684480" href="/techcampuscom/status/1113043411953684480?p=p">Apr 2</a>
+  </td>
+
+</tr>
+
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+
+      <div class="tweet-reply-context username">
+                Replying to
+          <a href="/fouad_tariq">@fouad_tariq</a>
+
+          <a href="/alosefer">@alosefer</a>
+
+        
+
+      </div>
+
+    <div class="tweet-text" data-id="1113043411953684480">
+      <div class="dir-rtl" dir="rtl">  أهلا فؤاد ا👋 لدورة ستكون مباشرة و بعد انتهائها ستكون مسجلة و متواجده بحسابك 🙏
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+
+        <span class="metadata">
+          <a href="/techcampuscom/status/1113043411953684480?p=v">View conversation</a>
+          <span class="middot">&middot;</span>
+        </span>
+
+          <span class="tweet-actions">
+            <a href="/techcampuscom/reply/1113043411953684480?p=r" class="first">
+                <span class="imgsprite_tweet_reply_gif"   title="Reply"></span>
+
+            </a>
+              <a href="/statuses/1113043411953684480/retweet?p=t">
+                    <span class="imgsprite_tweet_rt_gif"   title="Retweet"></span>
+
+              </a>
+            <a href="/statuses/1113043411953684480/favorite?p=f&amp;authenticity_token=efc192bac27221ee45acc1b888a5b76c25357689" class="favorite">
+                  <span class="imgsprite_tweet_heart_gif"   title="Like"></span>
+
+            </a>
+            <a href="/techcampuscom/status/1113043411953684480/actions" class="last"></a>
+          </span>
+    </td>
+  </tr>
+
+</table>
+
+
+            <table class="tweet  "
+       href="/techcampuscom/status/1112818465952468992?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/techcampuscom?p=i">
+      <img alt="TechCampus" src="https://pbs.twimg.com/profile_images/879981176659824640/u3NDOddA_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/techcampuscom?p=s">
+    <strong class="fullname">TechCampus</strong>
+    <div class="username">
+      <span>@</span>techcampuscom
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_1112818465952468992" href="/techcampuscom/status/1112818465952468992?p=p">Apr 1</a>
+  </td>
+
+</tr>
+
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+
+
+    <div class="tweet-text" data-id="1112818465952468992">
+      <div class="dir-rtl" dir="rtl">  كل متدرب في معسكراتنا ودوراتنا المدفوعة سيكون جزء من مبادرة كفالة الأيتام في TechCampus، سنقوم بكفالة يتيم لمدة سنة عن كل 40 متدرب 🙏&#10;وسنقوم يالتعاون مع عدة جمعيات في الخليج لكفالة الأيتام❤️ <a href="https://t.co/g5TPalugQt"data-pre-embedded="true"rel="nofollow"data-entity-id="1112818458826366976"dir="ltr"data-url="https://twitter.com/techcampuscom/status/1112818465952468992/photo/1"data-tco-id="g5TPalugQt"class="twitter_external_link dir-ltr tco-link has-expanded-path"target="_top"data-expanded-path="/techcampuscom/status/1112818465952468992/photo/1">pic.twitter.com/g5TPalugQt</a>
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+
+        <span class="metadata">
+          <a href="/techcampuscom/status/1112818465952468992?p=v">View photo</a>
+          <span class="middot">&middot;</span>
+        </span>
+
+          <span class="tweet-actions">
+            <a href="/techcampuscom/reply/1112818465952468992?p=r" class="first">
+                <span class="imgsprite_tweet_reply_gif"   title="Reply"></span>
+
+            </a>
+              <a href="/statuses/1112818465952468992/retweet?p=t">
+                    <span class="imgsprite_tweet_rt_gif"   title="Retweet"></span>
+
+              </a>
+            <a href="/statuses/1112818465952468992/favorite?p=f&amp;authenticity_token=efc192bac27221ee45acc1b888a5b76c25357689" class="favorite">
+                  <span class="imgsprite_tweet_heart_gif"   title="Like"></span>
+
+            </a>
+            <a href="/techcampuscom/status/1112818465952468992/actions" class="last"></a>
+          </span>
+    </td>
+  </tr>
+
+</table>
+
+
+            <table class="tweet  "
+       href="/techcampuscom/status/1112785568101011458?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/techcampuscom?p=i">
+      <img alt="TechCampus" src="https://pbs.twimg.com/profile_images/879981176659824640/u3NDOddA_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/techcampuscom?p=s">
+    <strong class="fullname">TechCampus</strong>
+    <div class="username">
+      <span>@</span>techcampuscom
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_1112785568101011458" href="/techcampuscom/status/1112785568101011458?p=p">Apr 1</a>
+  </td>
+
+</tr>
+
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+
+
+    <div class="tweet-text" data-id="1112785568101011458">
+      <div class="dir-rtl" dir="rtl">  دورة قصيرة مجانية🔥🎓 للطلاب و الأكاديميين عن كيفية كتابة البحوث والمراجع بطريقة صحيحة وماهي ادوات ومحركات البحث الأكاديمي، أسرار ومهارات البحث في محرك Google🕸 وعشرات الأدوات المفيدة مع د. ياسر <a href="/alosefer"class="twitter-atreply dir-ltr"dir="ltr"data-mentioned-user-id="178390485"data-screenname="alosefer">@alosefer</a> يوم الاحد القادم 👌7 ابريل لمدة ٣ ساعات تطبيقية&#10;<a href="https://t.co/SAdsbQip4N"rel="nofollow noopener"dir="ltr"data-expanded-url="https://techcampus.com/course?researchpaper"data-url="https://techcampus.com/course?researchpaper"class="twitter_external_link dir-ltr tco-link"target="_blank"title="https://techcampus.com/course?researchpaper">techcampus.com/course?researc…</a> <a href="https://t.co/SgwrNAeU4B"data-pre-embedded="true"rel="nofollow"data-entity-id="1112785559032881154"dir="ltr"data-url="https://twitter.com/techcampuscom/status/1112785568101011458/photo/1"data-tco-id="SgwrNAeU4B"class="twitter_external_link dir-ltr tco-link has-expanded-path"target="_top"data-expanded-path="/techcampuscom/status/1112785568101011458/photo/1">pic.twitter.com/SgwrNAeU4B</a>
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+
+        <span class="metadata">
+          <a href="/techcampuscom/status/1112785568101011458?p=v">View photo</a>
+          <span class="middot">&middot;</span>
+        </span>
+
+          <span class="tweet-actions">
+            <a href="/techcampuscom/reply/1112785568101011458?p=r" class="first">
+                <span class="imgsprite_tweet_reply_gif"   title="Reply"></span>
+
+            </a>
+              <a href="/statuses/1112785568101011458/retweet?p=t">
+                    <span class="imgsprite_tweet_rt_gif"   title="Retweet"></span>
+
+              </a>
+            <a href="/statuses/1112785568101011458/favorite?p=f&amp;authenticity_token=efc192bac27221ee45acc1b888a5b76c25357689" class="favorite">
+                  <span class="imgsprite_tweet_heart_gif"   title="Like"></span>
+
+            </a>
+            <a href="/techcampuscom/status/1112785568101011458/actions" class="last"></a>
+          </span>
+    </td>
+  </tr>
+
+</table>
+
+
+            <table class="tweet  "
+       href="/techcampuscom/status/1112757709621915648?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/techcampuscom?p=i">
+      <img alt="TechCampus" src="https://pbs.twimg.com/profile_images/879981176659824640/u3NDOddA_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/techcampuscom?p=s">
+    <strong class="fullname">TechCampus</strong>
+    <div class="username">
+      <span>@</span>techcampuscom
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_1112757709621915648" href="/techcampuscom/status/1112757709621915648?p=p">Apr 1</a>
+  </td>
+
+</tr>
+
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+
+      <div class="tweet-reply-context username">
+                Replying to
+          <a href="/wi_sli">@wi_sli</a>
+
+        
+        
+
+      </div>
+
+    <div class="tweet-text" data-id="1112757709621915648">
+      <div class="dir-rtl" dir="rtl">  تم الرد على الخاص واهلا بك 🙏
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+
+        <span class="metadata">
+          <a href="/techcampuscom/status/1112757709621915648?p=v">View conversation</a>
+          <span class="middot">&middot;</span>
+        </span>
+
+          <span class="tweet-actions">
+            <a href="/techcampuscom/reply/1112757709621915648?p=r" class="first">
+                <span class="imgsprite_tweet_reply_gif"   title="Reply"></span>
+
+            </a>
+              <a href="/statuses/1112757709621915648/retweet?p=t">
+                    <span class="imgsprite_tweet_rt_gif"   title="Retweet"></span>
+
+              </a>
+            <a href="/statuses/1112757709621915648/favorite?p=f&amp;authenticity_token=efc192bac27221ee45acc1b888a5b76c25357689" class="favorite">
+                  <span class="imgsprite_tweet_heart_gif"   title="Like"></span>
+
+            </a>
+            <a href="/techcampuscom/status/1112757709621915648/actions" class="last"></a>
+          </span>
+    </td>
+  </tr>
+
+</table>
+
+
+            <table class="tweet  "
+       href="/techcampuscom/status/1112757470223572994?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/techcampuscom?p=i">
+      <img alt="TechCampus" src="https://pbs.twimg.com/profile_images/879981176659824640/u3NDOddA_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/techcampuscom?p=s">
+    <strong class="fullname">TechCampus</strong>
+    <div class="username">
+      <span>@</span>techcampuscom
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_1112757470223572994" href="/techcampuscom/status/1112757470223572994?p=p">Apr 1</a>
+  </td>
+
+</tr>
+
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+
+      <div class="tweet-reply-context username">
+                Replying to
+          <a href="/skoiiiz">@skoiiiz</a>
+
+        
+        
+
+      </div>
+
+    <div class="tweet-text" data-id="1112757470223572994">
+      <div class="dir-rtl" dir="rtl">  اهلا نواف 👋 الدروس متاحة وستبقى في قسم الدروس المسجلة يمكن متابعتها اي وقت لا تشترط المتابعة في وقت معين. واهلا بك 🙏
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+
+        <span class="metadata">
+          <a href="/techcampuscom/status/1112757470223572994?p=v">View conversation</a>
+          <span class="middot">&middot;</span>
+        </span>
+
+          <span class="tweet-actions">
+            <a href="/techcampuscom/reply/1112757470223572994?p=r" class="first">
+                <span class="imgsprite_tweet_reply_gif"   title="Reply"></span>
+
+            </a>
+              <a href="/statuses/1112757470223572994/retweet?p=t">
+                    <span class="imgsprite_tweet_rt_gif"   title="Retweet"></span>
+
+              </a>
+            <a href="/statuses/1112757470223572994/favorite?p=f&amp;authenticity_token=efc192bac27221ee45acc1b888a5b76c25357689" class="favorite">
+                  <span class="imgsprite_tweet_heart_gif"   title="Like"></span>
+
+            </a>
+            <a href="/techcampuscom/status/1112757470223572994/actions" class="last"></a>
+          </span>
+    </td>
+  </tr>
+
+</table>
+
+
+            <table class="tweet  "
+       href="/techcampuscom/status/1112757196926926848?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/techcampuscom?p=i">
+      <img alt="TechCampus" src="https://pbs.twimg.com/profile_images/879981176659824640/u3NDOddA_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/techcampuscom?p=s">
+    <strong class="fullname">TechCampus</strong>
+    <div class="username">
+      <span>@</span>techcampuscom
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_1112757196926926848" href="/techcampuscom/status/1112757196926926848?p=p">Apr 1</a>
+  </td>
+
+</tr>
+
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+
+      <div class="tweet-reply-context username">
+                Replying to
+          <a href="/biba9x">@biba9x</a>
+
+        
+        
+
+      </div>
+
+    <div class="tweet-text" data-id="1112757196926926848">
+      <div class="dir-rtl" dir="rtl">  اهلا بك، الدرس متاح في قسم الدروس المسجلة يمكن مشاهدته اي وقت يناسبك واهلا بك 🙏
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+
+        <span class="metadata">
+          <a href="/techcampuscom/status/1112757196926926848?p=v">View conversation</a>
+          <span class="middot">&middot;</span>
+        </span>
+
+          <span class="tweet-actions">
+            <a href="/techcampuscom/reply/1112757196926926848?p=r" class="first">
+                <span class="imgsprite_tweet_reply_gif"   title="Reply"></span>
+
+            </a>
+              <a href="/statuses/1112757196926926848/retweet?p=t">
+                    <span class="imgsprite_tweet_rt_gif"   title="Retweet"></span>
+
+              </a>
+            <a href="/statuses/1112757196926926848/favorite?p=f&amp;authenticity_token=efc192bac27221ee45acc1b888a5b76c25357689" class="favorite">
+                  <span class="imgsprite_tweet_heart_gif"   title="Like"></span>
+
+            </a>
+            <a href="/techcampuscom/status/1112757196926926848/actions" class="last"></a>
+          </span>
+    </td>
+  </tr>
+
+</table>
+
+
+            <table class="tweet  "
+       href="/techcampuscom/status/1112754077115523074?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/techcampuscom?p=i">
+      <img alt="TechCampus" src="https://pbs.twimg.com/profile_images/879981176659824640/u3NDOddA_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/techcampuscom?p=s">
+    <strong class="fullname">TechCampus</strong>
+    <div class="username">
+      <span>@</span>techcampuscom
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_1112754077115523074" href="/techcampuscom/status/1112754077115523074?p=p">Apr 1</a>
+  </td>
+
+</tr>
+
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+
+
+    <div class="tweet-text" data-id="1112754077115523074">
+      <div class="dir-rtl" dir="rtl">  الدرس الرابع وهو ماقبل الاخير في دورة UI/UX من معسكر البايثون🐍متاح في قسم الدروس المٌسجلة ( ondemand ) نتعرف على المزيد حول عالم الآلوان، الخطوط، مهارات التصميم لعام 2019، تنسيق الصفحات في المواقع والتطبيقات والكثير🔥&#10;<a href="https://t.co/bAssMGPwAK"rel="nofollow noopener"dir="ltr"data-expanded-url="https://techcampus.com/dashboard/ondemand"data-url="https://techcampus.com/dashboard/ondemand"class="twitter_external_link dir-ltr tco-link"target="_blank"title="https://techcampus.com/dashboard/ondemand">techcampus.com/dashboard/onde…</a>&#10;<a href="/hashtag/TechCampus?src=hash"data-query-source="hashtag_click"class="twitter-hashtag dir-ltr"dir="ltr">#TechCampus</a> <a href="https://t.co/OpaThD9Zqf"data-pre-embedded="true"rel="nofollow"data-entity-id="1112754061642776577"dir="ltr"data-url="https://twitter.com/techcampuscom/status/1112754077115523074/photo/1"data-tco-id="OpaThD9Zqf"class="twitter_external_link dir-ltr tco-link has-expanded-path"target="_top"data-expanded-path="/techcampuscom/status/1112754077115523074/photo/1">pic.twitter.com/OpaThD9Zqf</a>
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+
+        <span class="metadata">
+          <a href="/techcampuscom/status/1112754077115523074?p=v">View photo</a>
+          <span class="middot">&middot;</span>
+        </span>
+
+          <span class="tweet-actions">
+            <a href="/techcampuscom/reply/1112754077115523074?p=r" class="first">
+                <span class="imgsprite_tweet_reply_gif"   title="Reply"></span>
+
+            </a>
+              <a href="/statuses/1112754077115523074/retweet?p=t">
+                    <span class="imgsprite_tweet_rt_gif"   title="Retweet"></span>
+
+              </a>
+            <a href="/statuses/1112754077115523074/favorite?p=f&amp;authenticity_token=efc192bac27221ee45acc1b888a5b76c25357689" class="favorite">
+                  <span class="imgsprite_tweet_heart_gif"   title="Like"></span>
+
+            </a>
+            <a href="/techcampuscom/status/1112754077115523074/actions" class="last"></a>
+          </span>
+    </td>
+  </tr>
+
+</table>
+
+
+            <table class="tweet  "
+       href="/techcampuscom/status/1112685163656478721?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/techcampuscom?p=i">
+      <img alt="TechCampus" src="https://pbs.twimg.com/profile_images/879981176659824640/u3NDOddA_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/techcampuscom?p=s">
+    <strong class="fullname">TechCampus</strong>
+    <div class="username">
+      <span>@</span>techcampuscom
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_1112685163656478721" href="/techcampuscom/status/1112685163656478721?p=p">Apr 1</a>
+  </td>
+
+</tr>
+
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+
+      <div class="tweet-reply-context username">
+                Replying to
+          <a href="/Fatmh_Kh">@Fatmh_Kh</a>
+
+        
+        
+
+      </div>
+
+    <div class="tweet-text" data-id="1112685163656478721">
+      <div class="dir-rtl" dir="rtl">  أهلا فاطمه 👋 يمكنك الدخول من متصفح كروم من خلال اللابتوب 🙏
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+
+        <span class="metadata">
+          <a href="/techcampuscom/status/1112685163656478721?p=v">View conversation</a>
+          <span class="middot">&middot;</span>
+        </span>
+
+          <span class="tweet-actions">
+            <a href="/techcampuscom/reply/1112685163656478721?p=r" class="first">
+                <span class="imgsprite_tweet_reply_gif"   title="Reply"></span>
+
+            </a>
+              <a href="/statuses/1112685163656478721/retweet?p=t">
+                    <span class="imgsprite_tweet_rt_gif"   title="Retweet"></span>
+
+              </a>
+            <a href="/statuses/1112685163656478721/favorite?p=f&amp;authenticity_token=efc192bac27221ee45acc1b888a5b76c25357689" class="favorite">
+                  <span class="imgsprite_tweet_heart_gif"   title="Like"></span>
+
+            </a>
+            <a href="/techcampuscom/status/1112685163656478721/actions" class="last"></a>
+          </span>
+    </td>
+  </tr>
+
+</table>
+
+
+            <table class="tweet  "
+       href="/techcampuscom/status/1112683707335360513?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/techcampuscom?p=i">
+      <img alt="TechCampus" src="https://pbs.twimg.com/profile_images/879981176659824640/u3NDOddA_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/techcampuscom?p=s">
+    <strong class="fullname">TechCampus</strong>
+    <div class="username">
+      <span>@</span>techcampuscom
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_1112683707335360513" href="/techcampuscom/status/1112683707335360513?p=p">Apr 1</a>
+  </td>
+
+</tr>
+
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+
+      <div class="tweet-reply-context username">
+                Replying to
+          <a href="/Eve__9">@Eve__9</a>
+
+        
+        
+
+      </div>
+
+    <div class="tweet-text" data-id="1112683707335360513">
+      <div class="dir-rtl" dir="rtl">  أهلا مليحه👋 لمشاهدة الدروس المسجله يمكنك اتباع الخطوات التوضيحية من خلال الرابط التالي <a href="https://t.co/3oQ6wZcExV"rel="nofollow noopener"dir="ltr"data-expanded-url="https://techcampus.com/howto/?ondemand"data-url="https://techcampus.com/howto/?ondemand"class="twitter_external_link dir-ltr tco-link"target="_blank"title="https://techcampus.com/howto/?ondemand">techcampus.com/howto/?ondemand</a> 🙏 بالتوفيق
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+
+        <span class="metadata">
+          <a href="/techcampuscom/status/1112683707335360513?p=v">View conversation</a>
+          <span class="middot">&middot;</span>
+        </span>
+
+          <span class="tweet-actions">
+            <a href="/techcampuscom/reply/1112683707335360513?p=r" class="first">
+                <span class="imgsprite_tweet_reply_gif"   title="Reply"></span>
+
+            </a>
+              <a href="/statuses/1112683707335360513/retweet?p=t">
+                    <span class="imgsprite_tweet_rt_gif"   title="Retweet"></span>
+
+              </a>
+            <a href="/statuses/1112683707335360513/favorite?p=f&amp;authenticity_token=efc192bac27221ee45acc1b888a5b76c25357689" class="favorite">
+                  <span class="imgsprite_tweet_heart_gif"   title="Like"></span>
+
+            </a>
+            <a href="/techcampuscom/status/1112683707335360513/actions" class="last"></a>
+          </span>
+    </td>
+  </tr>
+
+</table>
+
+
+            <table class="tweet  "
+       href="/techcampuscom/status/1112683078894436352?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/techcampuscom?p=i">
+      <img alt="TechCampus" src="https://pbs.twimg.com/profile_images/879981176659824640/u3NDOddA_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/techcampuscom?p=s">
+    <strong class="fullname">TechCampus</strong>
+    <div class="username">
+      <span>@</span>techcampuscom
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_1112683078894436352" href="/techcampuscom/status/1112683078894436352?p=p">Apr 1</a>
+  </td>
+
+</tr>
+
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+
+      <div class="tweet-reply-context username">
+                Replying to
+          <a href="/alhuwaidi3">@alhuwaidi3</a>
+
+          <a href="/shayma_tayaran">@shayma_tayaran</a>
+
+        
+
+      </div>
+
+    <div class="tweet-text" data-id="1112683078894436352">
+      <div class="dir-rtl" dir="rtl">  أهلا محمد 👋 لمشاهدة الدروس المسجلة يمكنك اتباع الخطوات التوضيحية من خلال الرابط التالي <a href="https://t.co/3oQ6wZcExV"rel="nofollow noopener"dir="ltr"data-expanded-url="https://techcampus.com/howto/?ondemand"data-url="https://techcampus.com/howto/?ondemand"class="twitter_external_link dir-ltr tco-link"target="_blank"title="https://techcampus.com/howto/?ondemand">techcampus.com/howto/?ondemand</a> 🙏  بالتوفيق
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+
+        <span class="metadata">
+          <a href="/techcampuscom/status/1112683078894436352?p=v">View conversation</a>
+          <span class="middot">&middot;</span>
+        </span>
+
+          <span class="tweet-actions">
+            <a href="/techcampuscom/reply/1112683078894436352?p=r" class="first">
+                <span class="imgsprite_tweet_reply_gif"   title="Reply"></span>
+
+            </a>
+              <a href="/statuses/1112683078894436352/retweet?p=t">
+                    <span class="imgsprite_tweet_rt_gif"   title="Retweet"></span>
+
+              </a>
+            <a href="/statuses/1112683078894436352/favorite?p=f&amp;authenticity_token=efc192bac27221ee45acc1b888a5b76c25357689" class="favorite">
+                  <span class="imgsprite_tweet_heart_gif"   title="Like"></span>
+
+            </a>
+            <a href="/techcampuscom/status/1112683078894436352/actions" class="last"></a>
+          </span>
+    </td>
+  </tr>
+
+</table>
+
+
+            <table class="tweet  "
+       href="/techcampuscom/status/1112682564098113537?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/techcampuscom?p=i">
+      <img alt="TechCampus" src="https://pbs.twimg.com/profile_images/879981176659824640/u3NDOddA_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/techcampuscom?p=s">
+    <strong class="fullname">TechCampus</strong>
+    <div class="username">
+      <span>@</span>techcampuscom
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_1112682564098113537" href="/techcampuscom/status/1112682564098113537?p=p">Apr 1</a>
+  </td>
+
+</tr>
+
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+
+      <div class="tweet-reply-context username">
+                Replying to
+          <a href="/RawabiHassan">@RawabiHassan</a>
+
+        
+        
+
+      </div>
+
+    <div class="tweet-text" data-id="1112682564098113537">
+      <div class="dir-rtl" dir="rtl">  أهلا بك 👋 يمكنك الدخول من متصفح كروم من خلال اللاب توب 🙏
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+
+        <span class="metadata">
+          <a href="/techcampuscom/status/1112682564098113537?p=v">View conversation</a>
+          <span class="middot">&middot;</span>
+        </span>
+
+          <span class="tweet-actions">
+            <a href="/techcampuscom/reply/1112682564098113537?p=r" class="first">
+                <span class="imgsprite_tweet_reply_gif"   title="Reply"></span>
+
+            </a>
+              <a href="/statuses/1112682564098113537/retweet?p=t">
+                    <span class="imgsprite_tweet_rt_gif"   title="Retweet"></span>
+
+              </a>
+            <a href="/statuses/1112682564098113537/favorite?p=f&amp;authenticity_token=efc192bac27221ee45acc1b888a5b76c25357689" class="favorite">
+                  <span class="imgsprite_tweet_heart_gif"   title="Like"></span>
+
+            </a>
+            <a href="/techcampuscom/status/1112682564098113537/actions" class="last"></a>
+          </span>
+    </td>
+  </tr>
+
+</table>
+
+
+            <table class="tweet  "
+       href="/techcampuscom/status/1112681462535516160?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/techcampuscom?p=i">
+      <img alt="TechCampus" src="https://pbs.twimg.com/profile_images/879981176659824640/u3NDOddA_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/techcampuscom?p=s">
+    <strong class="fullname">TechCampus</strong>
+    <div class="username">
+      <span>@</span>techcampuscom
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_1112681462535516160" href="/techcampuscom/status/1112681462535516160?p=p">Apr 1</a>
+  </td>
+
+</tr>
+
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+
+      <div class="tweet-reply-context username">
+                Replying to
+          <a href="/Medoegy20101">@Medoegy20101</a>
+
+        
+        
+
+      </div>
+
+    <div class="tweet-text" data-id="1112681462535516160">
+      <div class="dir-rtl" dir="rtl">  أهلا محمد👋  يمكنك الدخول من متصفح كروم من خلال اللاب توب 🙏
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+
+        <span class="metadata">
+          <a href="/techcampuscom/status/1112681462535516160?p=v">View conversation</a>
+          <span class="middot">&middot;</span>
+        </span>
+
+          <span class="tweet-actions">
+            <a href="/techcampuscom/reply/1112681462535516160?p=r" class="first">
+                <span class="imgsprite_tweet_reply_gif"   title="Reply"></span>
+
+            </a>
+              <a href="/statuses/1112681462535516160/retweet?p=t">
+                    <span class="imgsprite_tweet_rt_gif"   title="Retweet"></span>
+
+              </a>
+            <a href="/statuses/1112681462535516160/favorite?p=f&amp;authenticity_token=efc192bac27221ee45acc1b888a5b76c25357689" class="favorite">
+                  <span class="imgsprite_tweet_heart_gif"   title="Like"></span>
+
+            </a>
+            <a href="/techcampuscom/status/1112681462535516160/actions" class="last"></a>
+          </span>
+    </td>
+  </tr>
+
+</table>
+
+
+          <div class="w-button-more">
+            <a href="/techcampuscom?max_id=1112681462535516159">Load older Tweets</a>
+          </div>
+      </div>
+
+
+      </div>
+      <div id="footer">
+    <div class="search-fields">
+    <div class="title">
+      <label for="q">Enter a topic, @name, or fullname</label>
+    </div>
+    <form action="/search" class="search-input" method="get">
+    <table>
+      <tr>
+        <td class="value" id="search"><div><input id="q" name="q" type="text" value=""/></div></td>
+        <td class="button">
+          <input type="hidden" name="s" value="typd" />
+          <input type="image" src="https://ma.twimg.com/twitter-mobile/174b5d892d9edc5105200291251ad77d214927f6/images/sprites/magnifying_glass.gif" alt="Search"/>
+        </td>
+      </tr>
+    </table>
+    </form>
+</div>
+
+    <table class="global-actions">
+      <tr>
+        <td><a href="/settings">Settings</a></td>
+        <td><a href="https://support.twitter.com/"> Help</a></td>
+      </tr>
+    </table>
+    <div class="view-actions"><a href="#top"> Back to top</a> &middot; <a href="/settings/profile_images">Turn images off</a></div>
+</div>
+
+    </div>
+      <script id="scribe-configuration" type="application/json">{"page":"profile"}</script>
+      <script src="https://ma.twimg.com/twitter-mobile/174b5d892d9edc5105200291251ad77d214927f6/assets/m2_tweets.js" type="text/javascript"></script>
+      <img src="/i/anonymize?data=%5B%7B%22integration%22%3A%22ga%22%2C%22ref%22%3A%22https%3A%5C%2F%5C%2Fwww.google.com%5C%2Fsearch%3Fq%3Dtechcampus%26tbm%3Disch%26sa%3DX%26ved%3D2ahUKEwiCu4qPkrThAhUL5uAKHURYBtEQ9C96BAgBEBs%26biw%3D1021%26bih%3D548%26dpr%3D1%26tbas%3D0%23imgrc%3D1KQM86p3r8bc5M%3A%22%2C%22mobileMetricsToken%22%3A%22155430239692836693%22%7D%5D" height="0" width="0" style="opacity: 0">
+
+  </body>
+</html>
