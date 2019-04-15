@@ -1,0 +1,39 @@
+body{background-color: #a4d6d6;
+
+
+
+}
+.info{
+		margin: 30px ;
+width:50px ;
+float: right;
+}
+#img{ padding-left:100px;}
+ 
+ .osame:hover{ background-color:green ;
+ 	font-size: 105%}
+.osame:active{background-color: yellow; top:23px}
+
+ul {list-style-type: none;
+	margin: 0px;
+	padding:0px;
+ width: 100%;
+ background-color: #f1f1f1
+ ;
+}
+
+ul li {
+	width: 80px;  
+	float:left;   
+	background-color: #f1f1f1;                                                     																											
+} 
+ul li a {
+	display: block;
+color: 000
+padding:8px  0px 8px 8px;
+
+}
+ul a :hover{
+background-color: #555
+color :whide;
+}
