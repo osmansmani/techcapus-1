@@ -8,30 +8,33 @@ float: right;
 }
 #img{ padding-left:100px;}
  
- .osame:hover{ background-color:green ; width: 36%;
- 	font-size: 105%}
+ .osame:hover{ background-color:#eee8aa ; width: 30%
+ 	}
 .osame:active{background-color: yellow; top:23px}
 
 ul {list-style-type: none;
 	margin: 0px;
 	padding:0px;
- width: 100%;
+ width:100%;
  background-color: #f1f1f1
  ;
 }
 
 ul li { list-style-type: none;
-	width: 80px;  
+	width: 230px;  
 	float:left;   
-	background-color: #f1f1f1;                                                     																											
-} 
+	background-color: #696969;                                                     																											
+}
  li a {
 	display: block;
-color: 000
+color: #000;
 padding:8px  0px 8px 8px;
-
+ text-decoration: none;
 }
-ul a :hover{
-background-color: #555
-color :whide;
+ul  a :hover{
+background-color: #555;
+color :red;
+}
+li a :hover{
+	background-color: 000;
 }
